@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="368.92743"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-188.331787 -17.511007 368.927429 62.535492" height="62.535492"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Osudy_dobrého_vojáka_Švejka..._I id_Osudy_dobrého_vojáka_Švejka..._II"
+              d="M 5.658073,6.220303 A 31.182291,31.182291 0,0 1,-1.396281,24.615673"
+              stroke="#a99c88" stroke-width="6.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="4.497995"
+                class="id_Osudy_dobrého_vojáka_Švejka..._I" cy="-3.71218"
+                stroke="#766d5f" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="-8.900152"
+                class="id_Osudy_dobrého_vojáka_Švejka..._II" cy="31.225658"
+                stroke="#766d5f" stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="4.497995" y="2.91282" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Osudy_dobrého_vojáka_Švejka..._I">
+            Osudy dobrého vojáka Švejka... I
+        </text>
+        <text font-size="24" x="-8.900152" y="37.85066" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Osudy_dobrého_vojáka_Švejka..._II">
+            Osudy dobrého vojáka Švejka... II
+        </text>
+    </g>
+</svg>

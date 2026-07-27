@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="International Conference on Digital Humanities - Exploring the intersection of technology and humanities">
+    <title>Humanities and Social Sciences from the Perspective of Digital Humanities</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- ection with Navigation -->
+    <header class="hero">
+        <nav class="navbar">
+            <div class="nav-container">
+                
+            </div>
+        </nav>
+        
+        <div class="hero-content">
+            <h1 class="hero-title">Humanities and Social Sciences</h1>
+            <h2 class="hero-subtitle">from the Perspective of Digital Humanities <script>document.write(new Date().getFullYear())</script></h2>
+            <p class="hero-description">Join researchers and practitioners exploring the intersection of technology and humanities</p>
+            <div class="hero-buttons">
+                <a href="https://zmelik.app.n8n.cloud/form/77b42b83-112a-42a2-b4a5-0d828aad4fcc" target="_blank" class="btn btn-primary">Submit Abstract</a>
+                <a href="#program" class="btn btn-secondary">View Program</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        
+        <section id="about" class="section">
+            <div class="container">
+                <h2 class="section-title">About the Conference</h2>
+                <div class="content-grid">
+           
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>History of the Conference</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <p>The first edition took place in 2023 at the Faculty of Arts of Palacký University in Olomouc and was organized by members of the <a href="https://cdhlbs.upol.cz/" target="_blank" style="text-decoration: none;">Center for Digital Humanities in Literary and Book Studies</a>, which was founded at the Department of Czech Studies in 2023 by Richard Změlík, Miroslav Vepřek, and Vladimír Polách. The purpose of the conference, which became the first continuous event of its kind in the Czech Republic, is to bring together researchers from various fields of digital humanities and enable them to share their scientific knowledge and research across the humanities and social sciences. Among the many topics discussed were works in the fields of corpus linguistics, digital literary studies, literary cartography, cartography and mapping in history, issues of digital literary collections and curatorship, stylometric analysis, AI in connection with literary studies, linguistics, or art history, the use of digital technologies in archaeology, network modeling, tagging of literary corpora, or analysis of emotionality in literary texts, etc.
+                            The second and third editions of this conference will take place in 2024 and 2025, respectively. Since 2025, there has been a significant shift in the preparation of this event, which specifically means the involvement of other Czech and Slovak scientific institutions in the organizational process. In addition to Palacký University in Olomouc, scientists from the Institute of Czech Literature of the Czech Academy of Sciences, the Czech National Corpus, the Historical Institute of the Czech Academy of Sciences, and the Slovak National Corpus of the Ľ. Štúr Institute of Linguistics of the Slovak Academy of Sciences are now also involved in organizing the conference.
+                            The main purpose of this consortium is to raise awareness of this event and attract greater interest from potential participants among domestic and foreign researchers.</p>
+                            
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Interdisciplinary Approach and Topics</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <ul>
+                                <li>Digital Literary Studies</li>
+                                <li>Corpus Linguistics</li>
+                                <li>Computational linguistics</li>
+                                <li>Digital History</li>
+                                <li>Digital Art History</li>
+                                <li>Digital Archaeology</li>
+                                <li>Network Analysis in Humanities</li>
+                                <li>AI Applications in Humanities Research</li>
+                                <li>Digital Literary Cartography</li>
+                                <li>Text Mining and Analysis</li>
+                                <li>Digital editing</li>
+                                <li>Software development for DH research, digital tools</li>
+                                <li>Data visualization in Humanities</li>
+                                <li>Digital preservation and curation</li>
+                                <li>Ethics in Digital Humanities</li>
+                                <li>Topic modeling</li>
+                                <li>Network analysis</li>
+                                <li>Stylometry</li>
+                                <li>Literary Texts Tagging</li>
+                                <li>Digital Literary Corpora</li>
+                                <li>Poetry plotting</li>
+                                <li>Text Encoding Initiative (TEI) Guidelines</li>
+                                <li>Quantitative approaches in onomastics</li>
+                                <li>And more...</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Organization Institutions</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <ul>
+                                <li>
+                                    <a href="https://cdhlbs.upol.cz/" target="_blank" style="text-decoration: none;"><img src="img/UP_logo_FF_UP_horizont_cerna_en.png" class = "logo-up">
+                                        <div>Palacký University Olomouc, Faculty of Arts, Center for Digital Humanities in Literary and Book Studies</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://ucl.cas.cz/" target="_blank" style="text-decoration: none;"><img src="img/CAS_basic_logo_ENG_black.png" class = "logo-avcr">
+                                        <div style="margin-top: 1.2rem;">Institute of Czech Literature of the Czech Academy of Sciences</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.korpus.cz/" target="_blank" style="text-decoration: none;"><img src="img/cnk.png" class = "logo-cnk">
+                                        <div style="margin-top: -1.2rem;">Czech National Corpus</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.hiu.cas.cz/en" target="_blank" style="text-decoration: none;"><img src="img/huav.png" class = "logo-cnk">
+                                        <div style="margin-top: 0.5rem;">Historical Institute of the Czech Academy of Sciences</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.sav.sk/?lang=en&doc=ins-org-ins&institute_no=21" target="_blank" style="text-decoration: none;"><img src="img/logo_21.jpg" class = "logo-stur">
+                                        <div>Ludovit Stur Institute of Linguistics</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.dariah.eu/" target="_blank" style="text-decoration: none;"><img src="img/DARIAH-SK_symbol.png" class = "logo-stur">
+                                        <div style="margin-top: 1.2rem;">DARIAH-SK</div>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.czadh.cz/" target="_blank" style="text-decoration: none;"><img src="img/czadh kopie.png" class = "logo-cadh">
+                                        <div style="margin-top: 1.2rem;"></div>
+                                    </a>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Organizing Committee</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                           <ul>
+                                <li>Richard Změlík (Palacký University Olomouc)</li>
+                                <li>Miroslav Vepřek (Palacký University Olomouc)</li>
+                                <li>Vladimír Polách (Palacký University Olomouc)</li>
+                                <li>Petr Plecháč (Institute of Czech Literature of the Czech Academy of Sciences)</li>
+                                <li>Miroslav Zumrik (Ludovit Stur Institute of Linguistics)</li>
+                                <li>Kateřina Bobková-Valentová (Historical Institute of the Czech Academy of Sciences)</li>
+                                <li>Jana Synovcová Borovičková (Historical Institute of the Czech Academy of Sciences)</li>
+                                <li>Michal Škrabal (Czech National Corpus)</li>
+                                <li>Radim Hladík (Czech Association for Digital Humanities)</li>
+                           </ul>
+                            
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Contact Information</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <p>Palacký University Olomouc</p>
+                            <p>Křížkovského 10</p>
+                            <p>Olomouc, Czech Republic</p>
+                            <p>Email: richard.zmelik@gmail.com</p>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d2586.0583572946307!2d17.26173551765158!3d49.59664894540534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1scs!2scz!4v1760888366075!5m2!1scs!2scz" width="600" height="450" style="border:0; margin-top: 1rem;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3 style="color:  lightcoral;">Call for applications</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <a href="invitation letter/Invitation Letter .pdf" target="_blank">Download Invitation Letter</a>
+                            <!-- SEM VLOŽIT PDF S INVITATION LETTER-->
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Gallery</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <ul>
+                                <li><a href="gallery.html" style="text-decoration: none;" target="_blank">Photo Gallery of Individual Conference Years </a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="content-card expandable" onclick="toggleCard(this)">
+                        <div class="card-header">
+                            <h3>Evaluation</h3>
+                            <span class="expand-icon">▼</span>
+                        </div>
+                        <p class="card-preview">Click to view more information...</p>
+                        <div class="card-content">
+                            <ul>
+                                <li><a href="https://zmelik.app.n8n.cloud/form/a9bcd89b-f8a3-4b3e-a4e2-59a2e869266b" target="_blank">We would appreciate your feedback. If you would like to share your positive or negative opinions with us, or if you have any comments, ideas, etc., please fill out this form, which is completely anonymous. Thank you.</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Program Section -->
+        <section id="program" class="section section-alt">
+            <div class="container">    
+                <h2 class="section-title">Conference Program</h2>
+
+                <!--
+                <div class="program-timeline">
+                    <div class="timeline-item">
+                        <div class="timeline-date">5. 11.</div>
+                        <div class="timeline-content">
+                            <h3>Palacky University in Olomouc, Faculty of Arts, Department of Czech Studies</h3>
+                            <p style="float: left;">Křížkovského 10, Olomouc, Czech Republic</p>
+                            <a href="https://www.google.com/maps/place/K%C5%99%C3%AD%C5%BEkovsk%C3%A9ho+512%2F10,+779+00+Olomouc+9/@49.5942146,17.2571888,17z/data=!3m1!4b1!4m6!3m5!1s0x47124e8bf16304d5:0x75855e18193b02d7!8m2!3d49.5942146!4d17.2597691!16s%2Fg%2F11rp4wz_3t?entry=ttu&g_ep=EgoyMDI1MTAyOC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="icons/location.png" style="width: 1.5rem; margin-left: 0.5rem; float: left;"></a>
+                            <br><br>
+                            <p style="float: left; font-weight: bolder;">Current Abstracts here</p>
+                            <a href="" target="_blank"><img src="icons/pdf-file.png" style="width: 1.5rem; margin-left: 0.5rem;"></a>
+                            <br><hr><br>
+                            <p>Room: A101</p>
+                            <p>Moderator: Jane Doe (Affiliation)</p>
+                            <br>
+                            <h3 style="color: blue;">Opening Keynote</h3>
+                            <br>
+                            <table>
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>9:00 - 10:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+                            
+                            <table style="margin-top: 1rem;">
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>10:00 - 11:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+
+                            <h3 style="color: blue; margin-top: 1rem;">Panel Discussions</h3> 
+                            <p>11:00 - 12:30</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-date">6. 11.</div>
+                        <div class="timeline-content">
+                            <p>Room: A101</p>
+                            <p>Moderator: Jane Doe (Affiliation)</p>
+                            <table style="margin-top: 1rem;">
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>10:00 - 11:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+                            <table style="margin-top: 1rem;">
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>10:00 - 11:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+                            <table style="margin-top: 1rem;">
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>10:00 - 11:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+                            <table style="margin-top: 1rem;">
+                                <tr>
+                                    <td><strong>Time:</strong></td>
+                                    <td>10:00 - 11:00</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Speaker:</strong></td>
+                                    <td>John Smith (Affiliation)</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>Topic:</strong></td>
+                                    <td style="font-style: italic;">The Future of Digital Humanities</td>
+                                </tr>
+                            </table>
+                            <h3 style="color: blue; margin-top: 1rem;">Panel Discussions</h3> 
+                            <p>11:00 - 12:30</p>
+                        </div>
+                    </div>
+
+                    <div class="timeline-item">
+                        <div class="timeline-date">Day 3</div>
+                        <div class="timeline-content">
+                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos sed, iste autem temporibus quisquam rem quis consequuntur adipisci illo alias, fugit mollitia quasi libero inventore at? Atque ex numquam expedita.</p>
+                        </div>
+                    </div>
+                </div>
+                -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; <script>document.write(new Date().getFullYear())</script> Humanities and Social Sciences from the Perspective of Digital Humanities All rights reserved.</p>
+    </footer>
+
+    <script>
+        function toggleCard(card) {
+            card.classList.toggle('expanded');
+        }
+
+        // Keyboard accessibility support
+        document.addEventListener('keydown', function(event) {
+            if (event.key === 'Enter' || event.key === ' ') {
+                const focusedElement = document.activeElement;
+                if (focusedElement.classList.contains('expandable')) {
+                    event.preventDefault();
+                    toggleCard(focusedElement);
+                }
+            }
+        });
+
+        // Add tabindex for keyboard navigation
+        document.addEventListener('DOMContentLoaded', function() {
+            const expandableCards = document.querySelectorAll('.content-card.expandable');
+            expandableCards.forEach(card => {
+                card.setAttribute('tabindex', '0');
+                card.setAttribute('role', 'button');
+                card.setAttribute('aria-expanded', 'false');
+                
+                card.addEventListener('click', function() {
+                    const isExpanded = this.classList.contains('expanded');
+                    this.setAttribute('aria-expanded', isExpanded);
+                });
+            });
+        });
+    </script>
+</body>
+</html>

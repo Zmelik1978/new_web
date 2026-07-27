@@ -1,0 +1,29 @@
+#container-topography{
+    width:70%;
+    position:relative;
+}
+.layer{
+    position:absolute;
+    width:100%;
+    padding:8px;
+    float: left;
+}
+.upper{
+    display:none;
+}
+.checkbox-outter-topography{
+    margin-left: 0px;
+    margin-top: 5px;
+    display: block;
+    padding: 5px 5px 5px 5px;
+    width: 60%;
+    text-align: left;
+    float: right;
+}
+#checkboxes-topography {
+    position: relative;
+    width: 30%;
+    float: left;
+    margin-left: 0px;
+    float: right;
+}

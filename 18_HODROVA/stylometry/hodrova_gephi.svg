@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="293.50604"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-118.095230 -66.569107 293.506042 156.024246" height="156.02425"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Kukly id_Město_vidím"
+              d="M -74.096481,-22.551271 A 81.350031,81.350031 0,0 1,0.233208,-54.519516"
+              stroke="#969588" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kukly id_Perunův_den"
+              d="M -69.599030,-14.115710 A 130.047729,130.047729 0,0 1,44.543209,66.270058"
+              stroke="#ee7993" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kukly id_Podobojí"
+              d="M -73.324196,-6.414464 A 69.224755,69.224755 0,0 1,-66.245560,59.451008"
+              stroke="#ee7993" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kukly id_Théta"
+              d="M -70.217812,-17.665108 A 135.637583,135.637583 0,0 1,71.461273,18.948635"
+              stroke="#969588" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Město_vidím id_Théta"
+              d="M 19.698975,-50.039597 A 87.000055,87.000055 0,0 1,76.770103,16.598551"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Město_vidím id_Točité_věty"
+              d="M 18.810089,-57.645584 A 89.702927,89.702927 0,0 1,109.529549,-50.511810"
+              stroke="#3fb17d" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Perunův_den id_Podobojí"
+              d="M 39.374275,80.728256 A 99.113963,99.113963 0,0 1,-62.786465,74.477798"
+              stroke="#ee7993" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Perunův_den id_Théta"
+              d="M 48.083012,65.656723 A 47.971256,47.971256 0,0 1,69.135933,31.173557"
+              stroke="#969588" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Perunův_den id_Točité_věty"
+              d="M 47.235012,65.685051 A 115.510046,115.510046 0,0 1,108.370438,-40.016102"
+              stroke="#969588" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Podobojí id_Théta"
+              d="M -64.343704,60.691414 A 128.744222,128.744222 0,0 1,68.529518,23.281509"
+              stroke="#969588" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Théta id_Točité_věty"
+              d="M 77.370430,16.543121 A 67.561935,67.561935 0,0 1,108.586189,-39.591412"
+              stroke="#3fb17d" stroke-width="6.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="-79.59866"
+                class="id_Kukly" cy="-14.20106" stroke="#ee7993"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="10.079028"
+                class="id_Město_vidím" cy="-52.770283" stroke="#3fb17d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="47.99259"
+                class="id_Perunův_den" cy="75.65631" stroke="#ee7993"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="-70.72218"
+                class="id_Podobojí" cy="68.393036" stroke="#ee7993"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="77.98925"
+                class="id_Théta" cy="26.523956" stroke="#3fb17d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="117.391266"
+                class="id_Točité_věty" cy="-44.331726" stroke="#3fb17d"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-79.59866" y="-8.642467" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kukly">
+            Kukly
+        </text>
+        <text font-size="24" x="10.079028" y="-48.38161" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Město_vidím">
+            Město vidím
+        </text>
+        <text font-size="24" x="47.99259" y="80.171936" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Perunův_den">
+            Perunův den
+        </text>
+        <text font-size="24" x="-70.72218" y="73.97507" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Podobojí">
+            Podobojí
+        </text>
+        <text font-size="24" x="77.98925" y="30.912628" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Théta">
+            Théta
+        </text>
+        <text font-size="24" x="117.391266" y="-38.749695" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Točité_věty">
+            Točité věty
+        </text>
+    </g>
+</svg>

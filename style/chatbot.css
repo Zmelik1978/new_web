@@ -1,0 +1,107 @@
+#chatbot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 350px;
+    height: 500px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    z-index: 1000;
+  }
+  
+  #chatbot-header {
+    /*background-color: grey;*/
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #chatbot-messages {
+    flex: 1;
+    padding: 10px;
+    overflow-y: auto;
+    font-size: 12.5px;
+    padding-bottom: 2px;
+    color: lightslategray;
+  }
+
+  #chatbot-questions {
+    padding: 10px;
+    border: 0px solid #ccc;
+  }
+
+  .chatbot-question {
+    background-color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px 0;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    font-size: 12.5px;
+    font-style: italic;
+  }
+  
+  .chatbot-question:hover {
+    background-color: #ddd;
+  }
+  
+  #chatbot-input {
+    border: none;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+    width: calc(100% - 20px);
+    font-size: 12.5px;
+    width: 100%;
+  }
+  
+  #chatbot-send {
+    background-color: grey;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+  #chatbot-close {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    cursor: pointer;
+    color: black;
+    font-size: 10px;
+  }
+  
+  #chatbot-send:hover {
+    background-color: #c1276d;
+  }
+
+  #chatbot-toggle {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #0d6efd, #d63384);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(214, 51, 132, 0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1001;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  #chatbot-toggle:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 18px rgba(214, 51, 132, 0.6);
+  }

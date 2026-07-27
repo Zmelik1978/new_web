@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="680.33386"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-320.624451 -193.877884 680.333862 413.746338" height="413.74634"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Běloruska id_Hastrman_I"
+              d="M -30.305298,196.071716 A 79.885791,79.885791 0,0 1,11.767966,129.038177"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Běloruska id_Michaela"
+              d="M -39.479378,209.541977 A 161.370182,161.370182 0,0 1,-210.896790,164.328033"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Běloruska id_Poslední_tečka_za_rukopisy"
+              d="M -26.164925,196.877106 A 240.550299,240.550299 0,0 1,207.000549,56.010250"
+              stroke="#f97743" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Lord_Mord"
+              d="M 73.847298,-170.187592 A 143.018081,143.018081 0,0 1,-32.630455,-57.257355"
+              stroke="#9a96e5" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Paměti_poslance_parlamentu"
+              d="M 80.098366,-171.296417 A 133.427640,133.427640 0,0 1,64.691231,-28.450169"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Praga_Piccola"
+              d="M 70.359039,-171.394440 A 109.162657,109.162657 0,0 1,-32.487755,-121.153374"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Santiniho_jazyk"
+              d="M 84.488846,-176.095322 A 44.999197,44.999197 0,0 1,106.115776,-146.364471"
+              stroke="#9a96e5" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Stín_katedrály"
+              d="M 84.864182,-177.105179 A 106.842100,106.842100 0,0 1,154.396011,-89.728264"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Boletus_Arcanus id_Továrna_na_maso"
+              d="M 67.538292,-173.794327 A 169.913489,169.913489 0,0 1,-119.609322,-161.515381"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Hastrman_II"
+              d="M 30.709560,123.146561 A 78.706141,78.706141 0,0 1,102.101547,153.857666"
+              stroke="#f97743" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Lord_Mord"
+              d="M 12.726041,119.057602 A 159.064986,159.064986 0,0 1,-45.125828,-45.582760"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Michaela"
+              d="M 13.551841,131.700424 A 200.263549,200.263549 0,0 1,-208.498901,161.351166"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Pole_a_palisáda"
+              d="M 12.080288,129.661789 A 217.788332,217.788332 0,0 1,-231.192017,99.993614"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Poslední_tečka_za_rukopisy"
+              d="M 26.687435,116.748116 A 172.989838,172.989838 0,0 1,207.359955,54.033649"
+              stroke="#f97743" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_I id_Sedmikostelí"
+              d="M 27.414473,117.322266 A 103.677803,103.677803 0,0 1,131.621475,89.515282"
+              stroke="#f97743" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_II id_Sedmikostelí"
+              d="M 106.458664,152.264587 A 64.198472,64.198472 0,0 1,132.574326,98.077362"
+              stroke="#f97743" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Hastrman_II id_Stín_katedrály"
+              d="M 103.495392,153.087296 A 205.481496,205.481496 0,0 1,147.885529,-72.884499"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Paměti_poslance_parlamentu"
+              d="M -32.749786,-57.762001 A 88.550138,88.550138 0,0 1,52.055786,-28.820179"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Poslední_tečka_za_rukopisy"
+              d="M -32.647915,-57.339088 A 235.449413,235.449413 0,0 1,211.820160,48.229412"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Praga_Piccola"
+              d="M -47.677990,-63.714455 A 56.143256,56.143256 0,0 1,-47.653179,-114.081245"
+              stroke="#9a96e5" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Santiniho_jazyk"
+              d="M -37.934296,-64.147537 A 141.774553,141.774553 0,0 1,97.142792,-137.515503"
+              stroke="#9a96e5" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Sedmikostelí"
+              d="M -32.436920,-54.602360 A 196.449781,196.449781 0,0 1,138.361694,83.171104"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Stín_katedrály"
+              d="M -35.013424,-61.929798 A 165.906353,165.906353 0,0 1,146.325470,-84.460739"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lord_Mord id_Továrna_na_maso"
+              d="M -51.927639,-58.303802 A 117.217110,117.217110 0,0 1,-127.597221,-156.744781"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Lord_Mord id_Závěrka"
+              d="M -52.398277,-54.573891 A 68.267076,68.267076 0,0 1,-109.307861,-86.153938"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Michaela id_Paměti_poslance_parlamentu"
+              d="M -213.697357,147.369965 A 273.131983,273.131983 0,0 1,48.160534,-21.415382"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Michaela id_Pole_a_palisáda"
+              d="M -225.026947,150.283600 A 55.750495,55.750495 0,0 1,-240.852463,102.971344"
+              stroke="#28b36a" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Paměti_poslance_parlamentu id_Santiniho_jazyk"
+              d="M 56.209251,-30.699684 A 104.549219,104.549219 0,0 1,98.686752,-130.977448"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pole_a_palisáda id_Závěrka"
+              d="M -238.887894,83.241989 A 188.047885,188.047885 0,0 1,-123.374817,-91.348000"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Poslední_tečka_za_rukopisy id_Sedmikostelí"
+              d="M 211.691681,65.295921 A 70.004098,70.004098 0,0 1,150.983932,94.086372"
+              stroke="#f97743" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Praga_Piccola id_Santiniho_jazyk"
+              d="M -34.709789,-128.991089 A 125.087835,125.087835 0,0 1,98.360313,-141.303925"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Praga_Piccola id_Továrna_na_maso"
+              d="M -52.329350,-121.524910 A 80.378186,80.378186 0,0 1,-123.224487,-158.022629"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Praga_Piccola id_Závěrka"
+              d="M -48.337959,-114.545921 A 64.002766,64.002766 0,0 1,-104.243523,-92.997200"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Santiniho_jazyk id_Stín_katedrály"
+              d="M 116.621468,-133.412613 A 61.915592,61.915592 0,0 1,153.745316,-89.657585"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Továrna_na_maso id_Závěrka"
+              d="M -121.287292,-159.449036 A 60.951695,60.951695 0,0 1,-110.456604,-104.290733"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="-30.101593"
+                class="id_Běloruska" cy="206.06964" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="20.860014"
+                class="id_Hastrman_I" cy="124.87469" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="-217.34198"
+                class="id_Michaela" cy="156.68214" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="216.96916"
+                class="id_Poslední_tečka_za_rukopisy" cy="56.80191"
+                stroke="#ae532e" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="75.31661"
+                class="id_Boletus_Arcanus" cy="-180.07906" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-42.418484"
+                class="id_Lord_Mord" cy="-55.2093" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="58.14668"
+                class="id_Paměti_poslance_parlamentu" cy="-20.88916"
+                stroke="#6b69a0" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-42.385296"
+                class="id_Praga_Piccola" cy="-122.58121" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="107.081635"
+                class="id_Santiniho_jazyk" cy="-136.41122" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="155.15"
+                class="id_Stín_katedrály" cy="-79.75673" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-128.14212"
+                class="id_Továrna_na_maso" cy="-166.72992" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="107.62037"
+                class="id_Hastrman_II" cy="162.19688" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="-238.5639"
+                class="id_Pole_a_palisáda" cy="93.23674" stroke="#1c7d4a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="141.06726"
+                class="id_Sedmikostelí" cy="92.79814" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-114.04932"
+                class="id_Závěrka" cy="-94.958405" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-30.101593" y="210.45831" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Běloruska">
+            Běloruska
+        </text>
+        <text font-size="24" x="20.860014" y="129.23993" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hastrman_I">
+            Hastrman I
+        </text>
+        <text font-size="24" x="-217.34198" y="161.04738" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Michaela">
+            Michaela
+        </text>
+        <text font-size="24" x="216.96916" y="62.38394" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Poslední_tečka_za_rukopisy">
+            Poslední tečka za rukopisy
+        </text>
+        <text font-size="24" x="75.31661" y="-175.71382" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Boletus_Arcanus">
+            Boletus Arcanus
+        </text>
+        <text font-size="24" x="-42.418484" y="-50.844067" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lord_Mord">
+            Lord Mord
+        </text>
+        <text font-size="24" x="58.14668" y="-15.377441" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Paměti_poslance_parlamentu">
+            Paměti poslance parlamentu
+        </text>
+        <text font-size="24" x="-42.385296" y="-117.02261" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Praga_Piccola">
+            Praga Piccola
+        </text>
+        <text font-size="24" x="107.081635" y="-130.77841" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Santiniho_jazyk">
+            Santiniho jazyk
+        </text>
+        <text font-size="24" x="155.15" y="-74.12392" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Stín_katedrály">
+            Stín katedrály
+        </text>
+        <text font-size="24" x="-128.14212" y="-162.34125" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Továrna_na_maso">
+            Továrna na maso
+        </text>
+        <text font-size="24" x="107.62037" y="166.56212" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Hastrman_II">
+            Hastrman II
+        </text>
+        <text font-size="24" x="-238.5639" y="98.74846" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pole_a_palisáda">
+            Pole a palisáda
+        </text>
+        <text font-size="24" x="141.06726" y="97.2415" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sedmikostelí">
+            Sedmikostelí
+        </text>
+        <text font-size="24" x="-114.04932" y="-90.56973" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Závěrka">
+            Závěrka
+        </text>
+    </g>
+</svg>

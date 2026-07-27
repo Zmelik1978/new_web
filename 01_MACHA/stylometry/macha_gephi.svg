@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="819.56323"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-486.709778 -234.460297 819.563232 558.054810" height="558.0548"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none" class="id_Cikáni id_Křivoklad"
+              d="M 146.294586,-143.279861 A 100.473209,100.473209 0,0 1,42.376896,-147.170746"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Cikáni id_Marinka"
+              d="M 164.120621,-144.971512 A 139.194318,139.194318 0,0 1,248.684860,-20.340036"
+              stroke="#f97743" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Cikáni id_Viasil_Viasilovič"
+              d="M 164.654861,-146.941360 A 76.200247,76.200247 0,0 1,219.786789,-96.556084"
+              stroke="#f97743" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Krkonošská_pouť"
+              d="M -78.797119,84.667206 A 273.486012,273.486012 0,0 1,-387.267761,131.239288"
+              stroke="#9a96e5" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Křivoklad"
+              d="M -73.535934,67.848396 A 211.588279,211.588279 0,0 1,25.627382,-148.098724"
+              stroke="#c98694" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Marinka"
+              d="M -65.387634,69.875954 A 276.748570,276.748570 0,0 1,239.201996,-13.837360"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Pouť_krkonošská"
+              d="M -74.562958,87.236946 A 182.948093,182.948093 0,0 1,-235.176758,211.735275"
+              stroke="#9a96e5" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Poutník"
+              d="M -63.785339,71.497528 A 235.437028,235.437028 0,0 1,202.242615,60.071358"
+              stroke="#61a4a7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Karlův_Tejn id_Sen"
+              d="M -81.606323,78.638290 A 124.167615,124.167615 0,0 1,-197.516953,14.379716"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Svět_smyslný"
+              d="M -61.962639,75.201782 A 299.251112,299.251112 0,0 1,256.804443,201.574524"
+              stroke="#61a4a7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Svět_zašlý"
+              d="M -69.894951,67.825409 A 143.819193,143.819193 0,0 1,40.547581,-42.597595"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Karlův_Tejn id_Valdice"
+              d="M -62.788933,73.041191 A 225.888383,225.888383 0,0 1,189.516449,108.639801"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Klášter_Sázavský id_Krkonošská_pouť"
+              d="M 33.571560,312.134399 A 396.737452,396.737452 0,0 1,-390.974365,135.213593"
+              stroke="#61a4a7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Klášter_Sázavský id_Pouť_krkonošská"
+              d="M 33.733391,312.726593 A 253.778956,253.778956 0,0 1,-239.351730,220.302429"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Klášter_Sázavský id_Svět_smyslný"
+              d="M 48.302059,301.139984 A 200.458137,200.458137 0,0 1,252.353348,208.115387"
+              stroke="#28b36a" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Klášter_Sázavský id_Valdice"
+              d="M 43.787502,299.807892 A 206.298731,206.298731 0,0 1,187.151810,118.331787"
+              stroke="#28b36a" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Křivoklad"
+              d="M -392.610840,117.313232 A 427.808465,427.808465 0,0 1,24.318768,-153.626587"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Návrat"
+              d="M -398.311432,116.896996 A 315.691592,315.691592 0,0 1,-253.519745,-215.585312"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Pouť_krkonošská"
+              d="M -386.202820,125.727432 A 144.600824,144.600824 0,0 1,-249.486588,203.148315"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Poutník"
+              d="M -388.734314,119.963776 A 508.200053,508.200053 0,0 1,201.999405,60.462482"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Přísaha"
+              d="M -399.260437,117.155701 A 118.237097,118.237097 0,0 1,-363.902557,-3.147328"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Sen"
+              d="M -392.307251,117.434151 A 190.773880,190.773880 0,0 1,-211.951248,4.833873"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Svět_zašlý"
+              d="M -390.728210,118.265785 A 398.482040,398.482040 0,0 1,40.741707,-46.975380"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Večer_na_Bezdězu"
+              d="M -400.609558,117.707573 A 171.996657,171.996657 0,0 1,-371.609131,-70.120705"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Krkonošská_pouť id_Viasil_Viasilovič"
+              d="M -390.479614,118.431892 A 545.225961,545.225961 0,0 1,212.737350,-89.846252"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Křivoklad id_Marinka"
+              d="M 44.298042,-153.396957 A 214.545025,214.545025 0,0 1,245.020233,-19.689156"
+              stroke="#f97743" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Křivoklad id_Návrat"
+              d="M 25.035751,-149.314850 A 239.393174,239.393174 0,0 1,-238.380463,-213.082245"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Křivoklad id_Pouť_krkonošská"
+              d="M 34.076496,-143.073990 A 383.245733,383.245733 0,0 1,-235.577011,209.334763"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Křivoklad id_Svět_zašlý"
+              d="M 41.015148,-145.658478 A 91.584316,91.584316 0,0 1,54.669186,-53.393406"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Křivoklad id_Valdice"
+              d="M 43.504253,-149.154358 A 261.595576,261.595576 0,0 1,197.557968,105.572464"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Křivoklad id_Viasil_Viasilovič"
+              d="M 43.928139,-155.784958 A 166.080990,166.080990 0,0 1,216.484482,-95.018883"
+              stroke="#f97743" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Marinka id_Valdice"
+              d="M 250.644745,-0.558127 A 113.440280,113.440280 0,0 1,205.113968,110.052414"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Marinka id_Večer_na_Bezdězu"
+              d="M 239.917450,-5.328650 A 514.068532,514.068532 0,0 1,-357.297516,-70.554626"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Marinka id_Viasil_Viasilovič"
+              d="M 240.736725,-16.555849 A 67.433908,67.433908 0,0 1,219.923187,-77.156174"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Návrat id_Večer_na_Bezdězu"
+              d="M -245.749146,-210.697250 A 155.658347,155.658347 0,0 1,-355.009857,-79.920258"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -245.167419,212.167450 C -225.167419,192.167450 -225.167419,232.167450 -245.167419,212.167450"
+              class="id_Pouť_krkonošská" stroke-opacity="1.0" stroke="#9a96e5"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pouť_krkonošská id_Přísaha"
+              d="M -254.003632,207.485443 A 206.555473,206.555473 0,0 1,-357.694611,0.415768"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pouť_krkonošská id_Sen"
+              d="M -249.145294,202.992676 A 176.005916,176.005916 0,0 1,-209.287537,12.239649"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pouť_krkonošská id_Večer_na_Bezdězu"
+              d="M -253.666595,206.898285 A 260.981740,260.981740 0,0 1,-366.972473,-67.586273"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Poutník id_Valdice"
+              d="M 213.154694,75.217094 A 43.232347,43.232347 0,0 1,203.913620,108.558472"
+              stroke="#28b36a" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Přísaha id_Večer_na_Bezdězu"
+              d="M -362.442078,-17.236973 A 56.986876,56.986876 0,0 1,-368.841034,-68.230133"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Svět_smyslný id_Valdice"
+              d="M 252.862701,206.359604 A 95.758657,95.758657 0,0 1,196.898056,125.539078"
+              stroke="#28b36a" stroke-width="3.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="154.78677"
+                class="id_Cikáni" cy="-148.56027" stroke="#f97743"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="34.303345"
+                class="id_Křivoklad" cy="-153.07141" stroke="#f97743"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="248.57074"
+                class="id_Marinka" cy="-10.340687" stroke="#f97743"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="222.28519"
+                class="id_Viasil_Viasilovič" cy="-86.873215" stroke="#f97743"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-71.65335"
+                class="id_Karlův_Tejn" cy="77.66959" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-396.159"
+                class="id_Krkonošská_pouť" cy="126.6626" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-245.16742"
+                class="id_Pouť_krkonošská" cy="212.16745" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="210.61087"
+                class="id_Poutník" cy="65.54606" stroke="#28b36a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-201.96875"
+                class="id_Sen" cy="5.4253006" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="262.17184"
+                class="id_Svět_smyslný" cy="210.012" stroke="#28b36a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="50.39208"
+                class="id_Svět_zašlý" cy="-44.354248" stroke="#f97743"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="196.75424"
+                class="id_Valdice" cy="115.540115" stroke="#28b36a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="43.294247"
+                class="id_Klášter_Sázavský" cy="309.79572" stroke="#28b36a"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-244.9039"
+                class="id_Návrat" cy="-220.66147" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-356.1504"
+                class="id_Přísaha" cy="-9.464283" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="-364.66492"
+                class="id_Večer_na_Bezdězu" cy="-77.31639" stroke="#9a96e5"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="154.78677" y="-144.11691" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Cikáni">
+            Cikáni
+        </text>
+        <text font-size="24" x="34.303345" y="-148.68274" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Křivoklad">
+            Křivoklad
+        </text>
+        <text font-size="24" x="248.57074" y="-5.9754524" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Marinka">
+            Marinka
+        </text>
+        <text font-size="24" x="222.28519" y="-82.48454" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Viasil_Viasilovič">
+            Viasil Viasilovič
+        </text>
+        <text font-size="24" x="-71.65335" y="83.37858" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Karlův_Tejn">
+            Karlův Tejn
+        </text>
+        <text font-size="24" x="-396.159" y="132.17432" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Krkonošská_pouť">
+            Krkonošská pouť
+        </text>
+        <text font-size="24" x="-245.16742" y="216.55612" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pouť_krkonošská">
+            Pouť krkonošská
+        </text>
+        <text font-size="24" x="210.61087" y="69.93473" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Poutník">
+            Poutník
+        </text>
+        <text font-size="24" x="-201.96875" y="9.86866" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sen">
+            Sen
+        </text>
+        <text font-size="24" x="262.17184" y="215.6448" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Svět_smyslný">
+            Svět smyslný
+        </text>
+        <text font-size="24" x="50.39208" y="-38.721436" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Svět_zašlý">
+            Svět zašlý
+        </text>
+        <text font-size="24" x="196.75424" y="119.90535" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Valdice">
+            Valdice
+        </text>
+        <text font-size="24" x="43.294247" y="315.42853" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Klášter_Sázavský">
+            Klášter Sázavský
+        </text>
+        <text font-size="24" x="-244.9039" y="-216.2728" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Návrat">
+            Návrat
+        </text>
+        <text font-size="24" x="-356.1504" y="-5.075611" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Přísaha">
+            Přísaha
+        </text>
+        <text font-size="24" x="-364.66492" y="-72.92772" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Večer_na_Bezdězu">
+            Večer na Bezdězu
+        </text>
+    </g>
+</svg>

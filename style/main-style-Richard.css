@@ -1,0 +1,201 @@
+.adress {
+    float:left;
+}
+.map {
+    float: right;
+    height: 5rem;
+    width: auto;
+}
+#name {
+    font-size: 18px;
+    text-align: left;
+    font-weight: normal;
+}
+.more-about, .description {
+    text-align: justify;
+}
+.words_frame {
+    height: 5rem;
+}
+#entity {
+    float: left;
+    margin-left: 0.5rem;
+}
+#title {
+    font-weight: bold;
+    padding: 0.8rem;
+    background-color: #f8f9fa;
+}
+#words, #tokens, #lemmas, #sentences, #average_sentence, #median_sentence {
+    text-align: center;
+    color: #0d6efd;
+} 
+section{
+    margin-left: 2rem;
+}
+.mounth {
+    font-weight: bold;
+    color: #d63384;
+}
+.tabcontent {
+    width: 100%;
+}
+#standard-deviation {
+    border-collapse: collapse;
+    width: 30%;
+}
+#standard-deviation td, #standard-deviation th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+#standard-deviation tr:nth-child(even){background-color: #f2f2f2;}
+
+#standard-deviation tr:hover {background-color: #ddd;}
+
+#standard-deviation th {
+    background-color: #6c757d;
+    color: white;
+} 
+.content-of-years {
+    margin-top: 2rem;
+}
+.tag_lemma {
+    float: left;
+    margin-right: 2rem;
+    margin-top: 3.5rem;
+    border: 1px solid black;
+}
+th {
+    width: 14%;
+    padding: 5px;
+    border: 1px solid black;
+}
+td {
+    border: 1px solid black;
+    padding: 5px;
+    font-weight: 500;
+}
+#gis-container, #literature_map {
+    margin-top: 2rem;
+    width: 100%;
+    height: auto;
+}
+.titles {
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 2rem;
+}
+.gephi-graf, .dendogram-graf {
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
+}
+.autor_name {
+    font-weight: bold;
+    color: #3279e2;
+}
+#modal-overlay {
+    display: none; /* Skryté ve výchozím stavu */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgba(0, 0, 0, 0.5); /* Poloprůhledné černé pozadí */
+    z-index: 1000;
+}
+
+/* Styl pro samotné modální okno */
+#modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    z-index: 1001;
+    width: 50%;
+}
+
+/* Tlačítko zavřít */
+#close-modal {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#close-modal:hover {
+    background-color: #0056b3;
+}
+#open-modal {
+    padding: 3px 6px;
+    border: none;
+    background-color: white;
+    color: #0056b3;
+}
+.paragraph {
+    width: 94%;
+    margin-bottom: 2rem;
+}
+.title {
+    color: #007BFF;
+}
+.text_description {
+    text-align: justify;
+}
+.text-examples {
+    width: 33.3333%;
+    float: left;
+    padding: 20px;
+    text-align: justify;
+    font-style: italic;
+}
+.csv-table {
+    width: 60%;
+    margin-top: 2rem;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background: white;
+}
+th, td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+}
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* gallery */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px 0;
+}
+.gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+.gallery img:hover {
+    transform: scale(2.00);
+}
+.gallery-title {
+    color: rgb(56, 56, 233);
+}

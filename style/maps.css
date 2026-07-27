@@ -1,0 +1,40 @@
+#container {
+    width: 100%;
+    position: relative;
+}
+#container-denzity{
+    width:1000px;
+    position:relative;
+}
+#checkboxes {
+    width: 100%;
+
+}
+.layer{
+    position:absolute;
+    width:70%;
+    padding:8px;
+}
+.upper{
+    display:none;
+}
+.checkbox-outter{
+    margin-left:-580px;
+    margin-top: 5px;
+    display: block;
+    padding: 5px 5px 5px 5px;
+    width: 2100px;
+    text-align: left;
+}
+#checkboxes {
+    position: relative;
+    width: 100px;
+    float: left;
+    margin-left: 1700px;
+}
+#checkboxes-denzity {
+    position: relative;
+    margin-top: 1020px;
+    width: 100px;
+    float: right;
+}

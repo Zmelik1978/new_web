@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1889.0098"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-946.749146 -809.366638 1889.009766 1415.548584"
+     height="1415.5486" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Démantová_garnitura"
+              d="M -249.092438,344.389740 A 179.990774,179.990774 0,0 1,-250.663666,544.045349"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Dobrodružství_ve_výsadní_hospodě"
+              d="M -261.609192,343.507782 A 430.422397,430.422397 0,0 1,-752.938599,438.187073"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Dva_barikádníci"
+              d="M -248.888443,328.117920 A 353.654084,353.654084 0,0 1,140.054810,204.165756"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Il_divino_Boemo"
+              d="M -252.291336,326.501648 A 306.444054,306.444054 0,0 1,18.904087,102.821404"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Adamité id_Lampičky"
+              d="M -253.713745,346.121429 A 175.365543,175.365543 0,0 1,-347.757568,515.920532"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Adamité id_Mesiáš_I"
+              d="M -244.813934,335.723572 A 101.519460,101.519460 0,0 1,-155.000320,390.600220"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Moderní_upíři"
+              d="M -259.317169,327.257599 A 299.703383,299.703383 0,0 1,-205.102249,-11.882435"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_Štrajchpudlíci"
+              d="M -260.836395,328.205780 A 140.284507,140.284507 0,0 1,-266.877014,176.402023"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Adamité id_V_staré_pražské_krčmě"
+              d="M -258.321716,345.541626 A 117.329148,117.329148 0,0 1,-360.173828,416.788940"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Advokát_chuďasů id_Duhokřídlá_Psyché"
+              d="M -170.219818,238.607529 A 407.648223,407.648223 0,0 1,272.823456,72.861229"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Advokát_chuďasů id_Mesiáš_I"
+              d="M -168.779922,254.169754 A 128.954094,128.954094 0,0 1,-146.559372,390.664581"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Advokát_chuďasů id_Štrajchpudlíci"
+              d="M -185.597641,245.447693 A 97.176783,97.176783 0,0 1,-259.172577,177.698807"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Anděl_míru_II"
+              d="M 24.530603,411.231323 A 710.999473,710.999473 0,0 1,-782.236267,187.871765"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Aspoň_se_pousměj"
+              d="M 42.593391,402.765442 A 676.672387,676.672387 0,0 1,832.211304,502.716431"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Lilie_v_úpalu_slunečním"
+              d="M 43.814323,408.673187 A 81.889117,81.889117 0,0 1,106.978645,460.277191"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Agitátor id_Mesiáš_I"
+              d="M 25.437262,413.028625 A 154.072425,154.072425 0,0 1,-142.912766,405.781952"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Moderní_Magdaléna"
+              d="M 38.372425,398.721436 A 71.155552,71.155552 0,0 1,97.538002,364.036255"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Poslední_dnové_lidstva"
+              d="M 43.347874,404.469116 A 355.678951,355.678951 0,0 1,434.939240,528.112549"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Agitátor id_Štrajchpudlíci"
+              d="M 23.881474,407.109589 A 316.978442,316.978442 0,0 1,-258.912720,177.633011"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Etiopská_lilie"
+              d="M 528.110413,-548.066589 A 264.266016,264.266016 0,0 1,260.231415,-411.031281"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Kandidáti_existence"
+              d="M 524.927551,-550.637146 A 306.746585,306.746585 0,0 1,173.620926,-530.168640"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Newtonův_mozek"
+              d="M 539.643738,-564.133301 A 268.687505,268.687505 0,0 1,841.220703,-617.166382"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Poslední_škamna"
+              d="M 525.874390,-549.630066 A 486.486187,486.486187 0,0 1,-31.515766,-442.135101"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Sivooký_démon"
+              d="M 523.493347,-552.991638 A 475.819276,475.819276 0,0 1,-17.482012,-676.332581"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Sladký_hřích"
+              d="M 541.909729,-560.789795 A 255.144135,255.144135 0,0 1,824.106628,-494.226898"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Šílený_Job"
+              d="M 526.748230,-548.908325 A 397.391265,397.391265 0,0 1,87.460129,-410.024536"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Akrobati id_Ukřižovaná"
+              d="M 522.754333,-555.665222 A 334.184404,334.184404 0,0 1,184.652573,-739.490540"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_I id_Anděl_míru_II"
+              d="M -612.013184,121.571854 A 161.587620,161.587620 0,0 1,-778.741394,182.585526"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_I id_Anděl_míru_III"
+              d="M -598.945129,120.130043 A 111.768286,111.768286 0,0 1,-572.311523,234.675583"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_I id_Štrajchpudlíci"
+              d="M -597.386414,108.838654 A 290.922255,290.922255 0,0 1,-268.582092,160.915802"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_I id_Trilobit"
+              d="M -596.938232,109.860252 A 555.180388,555.180388 0,0 1,28.410738,287.569275"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_I id_Zbožňovatel_slečny_Esterházy"
+              d="M -610.366272,104.222305 A 285.258091,285.258091 0,0 1,-543.083679,-214.863037"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_II id_Anděl_míru_III"
+              d="M -778.920776,176.815369 A 184.916756,184.916756 0,0 1,-582.075500,236.108688"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_II id_Anděl_míru_IV"
+              d="M -786.654236,189.844177 A 125.472344,125.472344 0,0 1,-842.323730,311.844482"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_II id_Odumírající_drahokam"
+              d="M -778.459900,181.083542 A 254.250529,254.250529 0,0 1,-563.707581,374.282990"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_II id_Samovrah"
+              d="M -790.250793,170.170486 A 115.178574,115.178574 0,0 1,-741.289734,58.744473"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_III id_Anděl_míru_IV"
+              d="M -582.287781,251.716858 A 237.079204,237.079204 0,0 1,-841.557190,320.528534"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_III id_Dobrodružství_ve_výsadní_hospodě"
+              d="M -577.466125,253.879166 A 221.551403,221.551403 0,0 1,-752.131897,432.175293"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_III id_Odumírající_drahokam"
+              d="M -569.465515,251.627014 A 117.324634,117.324634 0,0 1,-556.797058,375.272430"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_III id_Štrajchpudlíci"
+              d="M -569.422607,236.405136 A 269.578211,269.578211 0,0 1,-270.754578,164.191879"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_III id_Zpuchřelá_nitka"
+              d="M -577.037048,253.936371 A 343.000297,343.000297 0,0 1,-843.613586,545.997253"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_IV id_Dobrodružství_ve_výsadní_hospodě"
+              d="M -841.406921,320.104370 A 122.423078,122.423078 0,0 1,-762.454590,423.925232"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_IV id_Mesiáš_I"
+              d="M -842.214355,312.031891 A 587.439043,587.439043 0,0 1,-158.148056,392.862396"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_IV id_Samovrah"
+              d="M -852.905762,307.179962 A 240.644954,240.644954 0,0 1,-741.444336,58.487556"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anděl_míru_IV id_Zpuchřelá_nitka"
+              d="M -845.204102,325.193298 A 192.533206,192.533206 0,0 1,-847.531921,539.914307"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Bílé_svatební_šaty"
+              d="M 286.754120,230.237244 A 405.960397,405.960397 0,0 1,287.442841,-240.768173"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Lilie_v_úpalu_slunečním"
+              d="M 292.194427,248.309067 A 245.746908,245.746908 0,0 1,119.577843,467.060913"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Lotr_Gólo"
+              d="M 293.669037,228.371902 A 101.955079,101.955079 0,0 1,361.585022,147.278351"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Odumírající_drahokam"
+              d="M 285.716217,245.531311 A 722.138491,722.138491 0,0 1,-552.653992,388.561584"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Poslední_dnové_lidstva"
+              d="M 301.496887,242.968277 A 277.240818,277.240818 0,0 1,442.504547,526.293884"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_První_noc_u_mrtvoly"
+              d="M 302.075348,234.997025 A 198.536229,198.536229 0,0 1,515.398560,296.261871"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Anna_a_Marie id_Zborcené_harfy_tón"
+              d="M 295.698883,228.797424 A 231.954108,231.954108 0,0 1,506.181519,72.630150"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Aspoň_se_pousměj id_Lotr_Gólo"
+              d="M 829.449829,509.331848 A 494.800853,494.800853 0,0 1,373.914825,154.146667"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Aspoň_se_pousměj id_Poslední_dnové_lidstva"
+              d="M 831.764954,516.023926 A 332.877642,332.877642 0,0 1,449.337128,541.488953"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Aspoň_se_pousměj id_První_noc_u_mrtvoly"
+              d="M 829.460022,510.155853 A 315.405642,315.405642 0,0 1,525.238098,313.409180"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bílé_svatební_šaty id_Etiopská_lilie"
+              d="M 285.744965,-255.319550 A 141.054415,141.054415 0,0 1,246.906677,-403.152924"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Bílé_svatební_šaty id_Sladký_hřích"
+              d="M 298.331177,-257.507172 A 489.664847,489.664847 0,0 1,820.898315,-488.826294"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Blíženci id_Il_divino_Boemo"
+              d="M 221.137238,312.602692 A 244.227641,244.227641 0,0 1,30.258137,112.102089"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Blíženci id_Lotr_Gólo"
+              d="M 231.698929,304.488434 A 183.607552,183.607552 0,0 1,361.545929,147.138123"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Blíženci id_V_staré_pražské_krčmě"
+              d="M 224.013321,321.651733 A 508.166179,508.166179 0,0 1,-361.234711,421.367554"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ďábel_na_skřipci id_Duhokřídlá_Psyché"
+              d="M 649.473938,-411.377625 A 514.828064,514.828064 0,0 1,292.003357,72.596657"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ďábel_na_skřipci id_Elegie_o_černých_očích"
+              d="M 644.056702,-412.987457 A 241.286510,241.286510 0,0 1,389.519653,-313.473572"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ďábel_na_skřipci id_Kandidáti_existence"
+              d="M 640.286865,-417.484253 A 414.648904,414.648904 0,0 1,171.698334,-527.958801"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ďábel_na_skřipci id_Ukřižovaná"
+              d="M 639.500732,-421.136749 A 476.618074,476.618074 0,0 1,183.584290,-739.055664"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Démantová_garnitura id_Lampičky"
+              d="M -266.117981,554.911926 A 87.674373,87.674373 0,0 1,-350.502319,528.068787"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Démantová_garnitura id_Mesiáš_I"
+              d="M -256.554749,542.163330 A 154.579411,154.579411 0,0 1,-160.230087,403.161072"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Duhový_bod_nad_hlavou"
+              d="M 291.882965,72.233345 A 206.894574,206.894574 0,0 1,514.822144,136.394257"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Lotr_Gólo"
+              d="M 292.427582,76.264458 A 93.658838,93.658838 0,0 1,368.051331,135.030777"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Mesiáš_I"
+              d="M 279.534302,85.124565 A 450.936923,450.936923 0,0 1,-140.849442,399.599335"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Moderní_Magdaléna"
+              d="M 283.264587,85.526779 A 281.445632,281.445632 0,0 1,116.736938,360.565491"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Noc_na_hřbitově"
+              d="M 288.020447,67.253342 A 402.081257,402.081257 0,0 1,726.223694,-92.307884"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Poslední_dnové_lidstva"
+              d="M 290.658417,81.274879 A 405.903024,405.903024 0,0 1,443.829498,526.606567"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhokřídlá_Psyché id_Svatý_Václav"
+              d="M 288.508209,67.601944 A 178.570931,178.570931 0,0 1,477.338745,8.193406"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhový_bod_nad_hlavou id_Lotr_Gólo"
+              d="M 512.819214,149.915985 A 124.870130,124.870130 0,0 1,379.442993,150.181305"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Duhový_bod_nad_hlavou id_Zborcené_harfy_tón"
+              d="M 515.169495,136.130524 A 59.935784,59.935784 0,0 1,511.453308,81.278618"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dva_barikádníci id_Il_divino_Boemo"
+              d="M 139.605698,206.214813 A 133.358263,133.358263 0,0 1,31.340250,111.890671"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dva_barikádníci id_Lotr_Gólo"
+              d="M 155.811157,199.526596 A 191.980965,191.980965 0,0 1,361.774933,141.174973"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dva_barikádníci id_Nalezenec"
+              d="M 152.581177,197.791702 A 258.829132,258.829132 0,0 1,389.029266,22.452772"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dva_barikádníci id_Poslední_dnové_lidstva"
+              d="M 159.312195,209.462357 A 366.107316,366.107316 0,0 1,439.925140,526.205444"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Dva_barikádníci id_Trilobit"
+              d="M 146.448853,216.828262 A 120.754669,120.754669 0,0 1,44.523899,294.953979"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Elegie_o_černých_očích id_Kandidáti_existence"
+              d="M 369.979828,-317.668762 A 255.896520,255.896520 0,0 1,166.690750,-525.668823"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Elegie_o_černých_očích id_Lotr_Gólo"
+              d="M 385.573578,-307.761902 A 383.793523,383.793523 0,0 1,377.243530,136.557281"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Etiopská_lilie id_Kandidáti_existence"
+              d="M 240.994202,-416.083649 A 124.674258,124.674258 0,0 1,165.217377,-525.556580"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Etiopská_lilie id_Můj_přítel_vrah"
+              d="M 245.000900,-404.091339 A 183.769969,183.769969 0,0 1,56.173351,-326.353394"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Etiopská_lilie id_Šílený_Job"
+              d="M 242.120071,-406.856903 A 143.637448,143.637448 0,0 1,86.164337,-407.465027"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Etiopská_lilie id_Zázračná_madona"
+              d="M 245.549377,-421.317108 A 210.594309,210.594309 0,0 1,273.724548,-656.065125"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Etiopská_lilie id_Zborcené_harfy_tón"
+              d="M 259.407593,-408.312714 A 460.902946,460.902946 0,0 1,517.489075,62.552341"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Il_divino_Boemo id_Lotr_Gólo"
+              d="M 37.645576,97.375603 A 287.433409,287.433409 0,0 1,363.875031,137.712845"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Il_divino_Boemo id_Sběhlé_švícko"
+              d="M 28.700615,92.198570 A 245.538168,245.538168 0,0 1,186.987152,-136.831085"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jakub_Arbes_-_Penězokaz id_Newtonův_mozek"
+              d="M -170.544266,-622.773804 A 857.359992,857.359992 0,0 1,842.210205,-618.794128"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jakub_Arbes_-_Penězokaz id_Sivooký_démon"
+              d="M -173.344131,-625.358093 A 140.405382,140.405382 0,0 1,-33.831215,-685.866028"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jakub_Arbes_-_Penězokaz id_Zbožňovatel_slečny_Esterházy"
+              d="M -179.625031,-606.904602 A 443.894229,443.894229 0,0 1,-525.885925,-223.608505"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kamarádi id_Lampičky"
+              d="M -347.608002,585.297668 A 61.593683,61.593683 0,0 1,-360.107391,529.694153"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Kamarádi id_Mesiáš_I"
+              d="M -338.994904,582.505066 A 225.331030,225.331030 0,0 1,-160.701584,401.408264"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kamarádi id_V_staré_pražské_krčmě"
+              d="M -347.562805,585.252930 A 148.317751,148.317751 0,0 1,-374.456024,425.920746"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Můj_přítel_vrah"
+              d="M 166.168747,-525.603943 A 198.851934,198.851934 0,0 1,55.510632,-332.773773"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Newtonův_mozek"
+              d="M 172.533188,-542.351685 A 574.472786,574.472786 0,0 1,841.555847,-617.799866"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Noc_na_hřbitově"
+              d="M 175.192551,-535.274353 A 603.556800,603.556800 0,0 1,733.141235,-99.158432"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Poslední_škamna"
+              d="M 160.010376,-527.006531 A 186.856021,186.856021 0,0 1,-30.767078,-444.354797"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Sivooký_démon"
+              d="M 155.207260,-536.019531 A 200.363228,200.363228 0,0 1,-21.193329,-674.302612"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Sladký_hřích"
+              d="M 173.662750,-540.878540 A 556.050698,556.050698 0,0 1,823.066956,-493.179474"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Svatý_Xaverius"
+              d="M 157.680023,-542.152161 A 222.511918,222.511918 0,0 1,100.628876,-786.324402"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Šílený_Job"
+              d="M 165.038986,-525.557800 A 125.204704,125.204704 0,0 1,87.383492,-416.624359"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Ukřižovaná"
+              d="M 160.018021,-544.111267 A 177.918300,177.918300 0,0 1,174.016663,-740.784790"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Vymírající_hřbitov"
+              d="M 174.654465,-532.308899 A 427.169986,427.169986 0,0 1,458.343231,-124.880600"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Zázračná_madona"
+              d="M 166.441742,-545.478760 A 143.478782,143.478782 0,0 1,270.721863,-661.188416"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Kandidáti_existence id_Zbožňovatel_slečny_Esterházy"
+              d="M 160.280411,-526.848450 A 639.989751,639.989751 0,0 1,-525.908020,-219.454987"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lampičky id_Před_domem_smutku"
+              d="M -353.794952,510.720642 A 80.011574,80.011574 0,0 1,-292.567596,460.332642"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lampičky id_Štrajchpudlíci"
+              d="M -360.312469,510.921844 A 304.125659,304.125659 0,0 1,-269.274841,174.257813"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lampičky id_V_staré_pražské_krčmě"
+              d="M -363.317535,512.718872 A 86.876955,86.876955 0,0 1,-374.585205,425.858398"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lilie_v_úpalu_slunečním id_Mesiáš_I"
+              d="M 100.602371,473.330444 A 225.064332,225.064332 0,0 1,-144.507797,407.430206"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lotr_Gólo id_Nalezenec"
+              d="M 367.565857,135.205734 A 104.448168,104.448168 0,0 1,391.720093,29.139572"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lotr_Gólo id_Poslední_dnové_lidstva"
+              d="M 378.402649,151.457642 A 331.489423,331.489423 0,0 1,445.245941,527.165955"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Lotr_Gólo id_Zborcené_harfy_tón"
+              d="M 376.019470,135.762009 A 134.917699,134.917699 0,0 1,506.285400,71.019539"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mesiáš_I id_Moderní_Magdaléna"
+              d="M -143.573196,392.837555 A 217.307349,217.307349 0,0 1,98.681877,359.803711"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mesiáš_I id_Moderní_upíři"
+              d="M -157.602814,392.323181 A 351.085115,351.085115 0,0 1,-202.974625,-10.261039"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mesiáš_I id_Před_domem_smutku"
+              d="M -156.027115,408.252747 A 120.509690,120.509690 0,0 1,-272.782562,461.024170"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mesiáš_I id_Štrajchpudlíci"
+              d="M -159.599823,394.858154 A 213.989046,213.989046 0,0 1,-263.234497,177.820541"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_Mesiáš_I id_Trilobit"
+              d="M -146.559326,390.664612 A 177.229760,177.229760 0,0 1,24.590483,294.443329"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Mesiáš_I id_V_staré_pražské_krčmě"
+              d="M -158.533173,406.097260 A 183.330618,183.330618 0,0 1,-361.586151,422.008606"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Moderní_upíři id_Můj_přítel_vrah"
+              d="M -197.631592,-28.945938 A 328.755658,328.755658 0,0 1,36.800659,-325.884003"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Moderní_upíři id_Poslední_škamna"
+              d="M -200.769745,-28.571775 A 379.625407,379.625407 0,0 1,-48.875057,-440.876221"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Moderní_upíři id_Štrajchpudlíci"
+              d="M -195.212418,-9.359564 A 164.505558,164.505558 0,0 1,-253.418854,162.078110"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Moderní_upíři id_Zbožný_Tomáš"
+              d="M -205.268524,-12.052700 A 143.271784,143.271784 0,0 1,-358.967377,11.658766"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Nalezenec id_Vymírající_hřbitov"
+              d="M 397.073883,12.506706 A 124.480713,124.480713 0,0 1,449.639587,-109.564270"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Newtonův_mozek id_Ukřižovaná"
+              d="M 841.152222,-608.596802 A 569.563118,569.563118 0,0 1,187.069290,-741.109436"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Noc_na_hřbitově id_Vymírající_hřbitov"
+              d="M 727.205750,-84.463051 A 232.397223,232.397223 0,0 1,465.671387,-108.342049"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Poslední_dnové_lidstva id_Svatý_Václav"
+              d="M 435.693268,527.607544 A 439.100019,439.100019 0,0 1,480.269928,18.771931"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Poslední_dnové_lidstva id_Zborcené_harfy_tón"
+              d="M 436.348694,527.243347 A 391.474136,391.474136 0,0 1,509.064514,79.492493"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_První_noc_u_mrtvoly id_Zborcené_harfy_tón"
+              d="M 515.649475,296.068359 A 193.066983,193.066983 0,0 1,510.582764,80.752983"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Před_domem_smutku id_Štrajchpudlíci"
+              d="M -287.856995,450.736115 A 243.375896,243.375896 0,0 1,-267.903503,175.650879"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Samovrah id_Zbožňovatel_slečny_Esterházy"
+              d="M -732.839050,43.460571 A 281.989481,281.989481 0,0 1,-545.161133,-218.407867"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sběhlé_švícko id_Sivooký_démon"
+              d="M 187.891953,-145.440308 A 488.904094,488.904094 0,0 1,-26.483461,-674.198608"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sběhlé_švícko id_Zbožňovatel_slečny_Esterházy"
+              d="M 187.749847,-135.184509 A 613.828457,613.828457 0,0 1,-528.335266,-214.796158"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sivooký_démon id_Svatý_Xaverius"
+              d="M -21.583103,-693.588989 A 141.854192,141.854192 0,0 1,94.502121,-794.496643"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sivooký_démon id_Ukřižovaná"
+              d="M -17.983751,-691.859131 A 178.630796,178.630796 0,0 1,170.828995,-751.563171"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Sladký_hřích id_Šílený_Job"
+              d="M 823.232117,-479.987610 A 630.215480,630.215480 0,0 1,86.568626,-408.088287"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Svatý_Václav id_Vymírající_hřbitov"
+              d="M 479.540161,4.437317 A 107.807905,107.807905 0,0 1,454.463654,-105.570938"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Svatý_Xaverius id_Ukřižovaná"
+              d="M 114.442291,-795.782043 A 74.423018,74.423018 0,0 1,176.098068,-757.568604"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Šílený_Job id_Štrajchpudlíci"
+              d="M 79.040016,-403.270905 A 560.892922,560.892922 0,0 1,-252.315918,164.009033"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Štrajchpudlíci id_Zbožňovatel_slečny_Esterházy"
+              d="M -270.968262,164.764450 A 396.976404,396.976404 0,0 1,-535.854980,-211.585342"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Ukřižovaná id_Zázračná_madona"
+              d="M 190.297943,-747.456482 A 109.472830,109.472830 0,0 1,277.807343,-673.096436"
+              stroke="#68ad36" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_V_staré_pražské_krčmě id_Zbožný_Tomáš"
+              d="M -376.011536,408.765350 A 341.359061,341.359061 0,0 1,-373.873688,15.314329"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_V_staré_pražské_krčmě id_Zpuchřelá_nitka"
+              d="M -376.417053,424.695526 A 417.258081,417.258081 0,0 1,-844.074524,551.588196"
+              stroke="#ff743e" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Vymírající_hřbitov id_Zborcené_harfy_tón"
+              d="M 466.023987,-108.773460 A 163.453032,163.453032 0,0 1,519.252930,62.950104"
+              stroke="#d27cce" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Zbožňovatel_slečny_Esterházy id_Zbožný_Tomáš"
+              d="M -526.173767,-218.476669 A 236.441997,236.441997 0,0 1,-368.049133,-2.740101"
+              stroke="#00b7da" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-254.80347"
+                class="id_Adamité" cy="336.18097" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-256.50317"
+                class="id_Démantová_garnitura" cy="552.1632" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-761.9796"
+                class="id_Dobrodružství_ve_výsadní_hospodě" cy="433.91394"
+                stroke="#00b7da" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="149.5445"
+                class="id_Dva_barikádníci" cy="207.31947" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="28.884567"
+                class="id_Il_divino_Boemo" cy="102.19688" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-356.762"
+                class="id_Lampičky" cy="520.2703" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-150.84895"
+                class="id_Mesiáš_I" cy="399.6978" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-198.03162"
+                class="id_Moderní_upíři" cy="-18.953943" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-261.49686"
+                class="id_Štrajchpudlíci" cy="167.97267" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-370.17337"
+                class="id_V_staré_pražské_krčmě" cy="416.88422" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-175.7132"
+                class="id_Advokát_chuďasů" cy="246.96353" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="282.45245"
+                class="id_Duhokřídlá_Psyché" cy="75.559814" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="33.866917"
+                class="id_Agitátor" cy="407.64896" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-788.4008"
+                class="id_Anděl_míru_II" cy="179.99788" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="839.4457"
+                class="id_Aspoň_se_pousměj" cy="509.6203" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="109.96614"
+                class="id_Lilie_v_úpalu_slunečním" cy="469.8205"
+                stroke="#ff743e" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="107.528786"
+                class="id_Moderní_Magdaléna" cy="364.46548" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="440.87515"
+                class="id_Poslední_dnové_lidstva" cy="536.1602" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="532.66925"
+                class="id_Akrobati" cy="-556.967" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="250.34631"
+                class="id_Etiopská_lilie" cy="-412.54276" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="165.19653"
+                class="id_Kandidáti_existence" cy="-535.5566" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="850.2216"
+                class="id_Newtonův_mozek" cy="-612.8094" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="-40.551716"
+                class="id_Poslední_škamna" cy="-446.41898" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="-24.027895"
+                class="id_Sivooký_démon" cy="-683.89246" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="830.66473"
+                class="id_Sladký_hřích" cy="-486.6776" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="77.98268"
+                class="id_Šílený_Job" cy="-413.21484" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="180.35463"
+                class="id_Ukřižovaná" cy="-748.5198" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-606.30554"
+                class="id_Anděl_míru_I" cy="113.360695" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-575.9304"
+                class="id_Anděl_míru_III" cy="243.99779" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="34.53736"
+                class="id_Trilobit" cy="295.47272" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-535.67883"
+                class="id_Zbožňovatel_slečny_Esterházy" cy="-221.58379"
+                stroke="#00b7da" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-850.9056"
+                class="id_Anděl_míru_IV" cy="316.97787" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-561.5805"
+                class="id_Odumírající_drahokam" cy="384.05414"
+                stroke="#00b7da" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-732.79974"
+                class="id_Samovrah" cy="53.460495" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#00b7da" r="9.2" cx="-853.41016"
+                class="id_Zpuchřelá_nitka" cy="548.00415" stroke="#00b7da"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="292.6433"
+                class="id_Anna_a_Marie" cy="238.31915" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="293.35565"
+                class="id_Bílé_svatební_šaty" cy="-248.83282" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="371.19788"
+                class="id_Lotr_Gólo" cy="144.52284" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="521.6305"
+                class="id_První_noc_u_mrtvoly" cy="304.08258" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="516.1802"
+                class="id_Zborcené_harfy_tón" cy="72.46631" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="230.963"
+                class="id_Blíženci" cy="314.4613" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="649.4978"
+                class="id_Ďábel_na_skřipci" cy="-421.3776" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="379.83075"
+                class="id_Elegie_o_černých_očích" cy="-315.94846"
+                stroke="#68ad36" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="521.04175"
+                class="id_Duhový_bod_nad_hlavou" cy="144.22476" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="735.8291"
+                class="id_Noc_na_hřbitově" cy="-89.526436" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="486.86"
+                class="id_Svatý_Václav" cy="11.250551" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="399.0283"
+                class="id_Nalezenec" cy="22.313864" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="46.427082"
+                class="id_Můj_přítel_vrah" cy="-328.59177" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="280.46158"
+                class="id_Zázračná_madona" cy="-663.45514" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="196.40492"
+                class="id_Sběhlé_švícko" cy="-140.19347" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="-178.60243"
+                class="id_Jakub_Arbes_-_Penězokaz" cy="-616.8522"
+                stroke="#68ad36" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-340.55142"
+                class="id_Kamarádi" cy="592.3832" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#68ad36" r="9.2" cx="104.44459"
+                class="id_Svatý_Xaverius" cy="-795.5678" stroke="#68ad36"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#d27cce" r="9.2" cx="458.1076"
+                class="id_Vymírající_hřbitov" cy="-114.88338" stroke="#d27cce"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-282.62546"
+                class="id_Před_domem_smutku" cy="459.2585" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ff743e" r="9.2" cx="-367.94766"
+                class="id_Zbožný_Tomáš" cy="7.2593837" stroke="#ff743e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-254.80347" y="340.56964" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Adamité">
+            Adamité
+        </text>
+        <text font-size="24" x="-256.50317" y="557.74524" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Démantová_garnitura">
+            Démantová garnitura
+        </text>
+        <text font-size="24" x="-761.9796" y="439.49597" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dobrodružství_ve_výsadní_hospodě">
+            Dobrodružství ve výsadní hospodě
+        </text>
+        <text font-size="24" x="149.5445" y="211.70815" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dva_barikádníci">
+            Dva barikádníci
+        </text>
+        <text font-size="24" x="28.884567" y="106.56211" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Il_divino_Boemo">
+            Il divino Boemo
+        </text>
+        <text font-size="24" x="-356.762" y="525.85236" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lampičky">
+            Lampičky
+        </text>
+        <text font-size="24" x="-150.84895" y="404.0865" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Mesiáš_I">
+            Mesiáš I
+        </text>
+        <text font-size="24" x="-198.03162" y="-13.4422245" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moderní_upíři">
+            Moderní upíři
+        </text>
+        <text font-size="24" x="-261.49686" y="174.59767" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Štrajchpudlíci">
+            Štrajchpudlíci
+        </text>
+        <text font-size="24" x="-370.17337" y="422.39594" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_V_staré_pražské_krčmě">
+            V staré pražské krčmě
+        </text>
+        <text font-size="24" x="-175.7132" y="251.47916" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Advokát_chuďasů">
+            Advokát chuďasů
+        </text>
+        <text font-size="24" x="282.45245" y="81.141846" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duhokřídlá_Psyché">
+            Duhokřídlá Psyché
+        </text>
+        <text font-size="24" x="33.866917" y="413.231" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Agitátor">
+            Agitátor
+        </text>
+        <text font-size="24" x="-788.4008" y="184.38655" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anděl_míru_II">
+            Anděl míru II
+        </text>
+        <text font-size="24" x="839.4457" y="515.20233" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Aspoň_se_pousměj">
+            Aspoň se pousměj
+        </text>
+        <text font-size="24" x="109.96614" y="475.3322" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lilie_v_úpalu_slunečním">
+            Lilie v úpalu slunečním
+        </text>
+        <text font-size="24" x="107.528786" y="370.04752" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Moderní_Magdaléna">
+            Moderní Magdaléna
+        </text>
+        <text font-size="24" x="440.87515" y="540.5489" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Poslední_dnové_lidstva">
+            Poslední dnové lidstva
+        </text>
+        <text font-size="24" x="532.66925" y="-552.60175" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Akrobati">
+            Akrobati
+        </text>
+        <text font-size="24" x="250.34631" y="-407.03104" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Etiopská_lilie">
+            Etiopská lilie
+        </text>
+        <text font-size="24" x="165.19653" y="-531.1679" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kandidáti_existence">
+            Kandidáti existence
+        </text>
+        <text font-size="24" x="850.2216" y="-608.29376" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Newtonův_mozek">
+            Newtonův mozek
+        </text>
+        <text font-size="24" x="-40.551716" y="-442.0303" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Poslední_škamna">
+            Poslední škamna
+        </text>
+        <text font-size="24" x="-24.027895" y="-678.25964" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sivooký_démon">
+            Sivooký démon
+        </text>
+        <text font-size="24" x="830.66473" y="-481.0448" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sladký_hřích">
+            Sladký hřích
+        </text>
+        <text font-size="24" x="77.98268" y="-406.58984" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Šílený_Job">
+            Šílený Job
+        </text>
+        <text font-size="24" x="180.35463" y="-744.1272" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ukřižovaná">
+            Ukřižovaná
+        </text>
+        <text font-size="24" x="-606.30554" y="117.74937" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anděl_míru_I">
+            Anděl míru I
+        </text>
+        <text font-size="24" x="-575.9304" y="248.38646" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anděl_míru_III">
+            Anděl míru III
+        </text>
+        <text font-size="24" x="34.53736" y="299.83795" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Trilobit">
+            Trilobit
+        </text>
+        <text font-size="24" x="-535.67883" y="-216.00175" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zbožňovatel_slečny_Esterházy">
+            Zbožňovatel slečny Esterházy
+        </text>
+        <text font-size="24" x="-850.9056" y="321.36655" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anděl_míru_IV">
+            Anděl míru IV
+        </text>
+        <text font-size="24" x="-561.5805" y="390.67133" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Odumírající_drahokam">
+            Odumírající drahokam
+        </text>
+        <text font-size="24" x="-732.79974" y="57.903854" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Samovrah">
+            Samovrah
+        </text>
+        <text font-size="24" x="-853.41016" y="553.51587" fill="#00b7da"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zpuchřelá_nitka">
+            Zpuchřelá nitka
+        </text>
+        <text font-size="24" x="292.6433" y="242.68439" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Anna_a_Marie">
+            Anna a Marie
+        </text>
+        <text font-size="24" x="293.35565" y="-243.2508" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Bílé_svatební_šaty">
+            Bílé svatební šaty
+        </text>
+        <text font-size="24" x="371.19788" y="148.9662" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lotr_Gólo">
+            Lotr Gólo
+        </text>
+        <text font-size="24" x="521.6305" y="309.6646" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_První_noc_u_mrtvoly">
+            První noc u mrtvoly
+        </text>
+        <text font-size="24" x="516.1802" y="78.09912" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zborcené_harfy_tón">
+            Zborcené harfy tón
+        </text>
+        <text font-size="24" x="230.963" y="318.84998" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Blíženci">
+            Blíženci
+        </text>
+        <text font-size="24" x="649.4978" y="-414.8229" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Ďábel_na_skřipci">
+            Ďábel na skřipci
+        </text>
+        <text font-size="24" x="379.83075" y="-310.36642" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Elegie_o_černých_očích">
+            Elegie o černých očích
+        </text>
+        <text font-size="24" x="521.04175" y="149.8068" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Duhový_bod_nad_hlavou">
+            Duhový bod nad hlavou
+        </text>
+        <text font-size="24" x="735.8291" y="-85.137764" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Noc_na_hřbitově">
+            Noc na hřbitově
+        </text>
+        <text font-size="24" x="486.86" y="16.883364" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Svatý_Václav">
+            Svatý Václav
+        </text>
+        <text font-size="24" x="399.0283" y="26.679098" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Nalezenec">
+            Nalezenec
+        </text>
+        <text font-size="24" x="46.427082" y="-322.88278" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Můj_přítel_vrah">
+            Můj přítel vrah
+        </text>
+        <text font-size="24" x="280.46158" y="-659.06647" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zázračná_madona">
+            Zázračná madona
+        </text>
+        <text font-size="24" x="196.40492" y="-135.7501" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sběhlé_švícko">
+            Sběhlé švícko
+        </text>
+        <text font-size="24" x="-178.60243" y="-612.4596" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jakub_Arbes_-_Penězokaz">
+            Jakub Arbes - Penězokaz
+        </text>
+        <text font-size="24" x="-340.55142" y="596.77185" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Kamarádi">
+            Kamarádi
+        </text>
+        <text font-size="24" x="104.44459" y="-789.935" fill="#68ad36"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Svatý_Xaverius">
+            Svatý Xaverius
+        </text>
+        <text font-size="24" x="458.1076" y="-109.301346" fill="#d27cce"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vymírající_hřbitov">
+            Vymírající hřbitov
+        </text>
+        <text font-size="24" x="-282.62546" y="463.6472" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Před_domem_smutku">
+            Před domem smutku
+        </text>
+        <text font-size="24" x="-367.94766" y="12.841415" fill="#ff743e"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Zbožný_Tomáš">
+            Zbožný Tomáš
+        </text>
+    </g>
+</svg>

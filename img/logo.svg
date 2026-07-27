@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="842px" height="1191px" viewBox="-26.666 -8.773 842 1191"
+	 enable-background="new -26.666 -8.773 842 1191" xml:space="preserve">
+<defs>
+</defs>
+<circle fill="#393939" cx="403.719" cy="213.657" r="45.664"/>
+<circle fill="#393939" cx="540.709" cy="365.868" r="45.664"/>
+<circle fill="#393939" cx="279.775" cy="468.068" r="45.664"/>
+<path fill="none" stroke="#393939" stroke-width="25" stroke-miterlimit="10" d="M434.161,0.561c0,0,15.222,339.214-287.027,634.94"
+	/>
+<path fill="none" stroke="#393939" stroke-width="25" stroke-miterlimit="10" d="M112.343,104.934
+	c0,0,430.541-4.349,506.647,497.949"/>
+<path fill="none" stroke="#393939" stroke-width="25" stroke-miterlimit="10" d="M16.667,294.111
+	c0,0,30.442,110.897,263.108,173.957c0,0,163.084-23.919,458.81-234.841"/>
+<rect x="5" y="736.228" fill="none" width="869" height="337"/>
+<text transform="matrix(1 0 0 1 5 881.3872)" fill="#393939" stroke="#393939" stroke-width="10" font-family="'Verdana'" font-size="191">LitCORP</text>
+</svg>

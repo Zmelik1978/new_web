@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="747.7417"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-369.874878 -128.913467 747.741699 326.035400" height="326.0354"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Doktor_Kazisvět id_Jak_to_přišlo..."
+              d="M 71.859589,43.915459 A 54.825666,54.825666 0,0 1,97.655891,85.296494"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Doktor_Kazisvět id_Pan_Ryšánek_a_pan_Schlegl"
+              d="M 55.380131,32.878529 A 103.436542,103.436542 0,0 1,28.083208,-71.162659"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Doktor_Kazisvět id_Týden_v_tichém_domě"
+              d="M 53.714111,43.407463 A 207.025431,207.025431 0,0 1,-173.128937,-5.925202"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Figurky id_Jak_to_přišlo..."
+              d="M -214.265381,142.440842 A 269.642959,269.642959 0,0 1,88.732193,90.888885"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Figurky id_Psáno_o_letošních_dušičkách"
+              d="M -226.454910,141.012543 A 79.591487,79.591487 0,0 1,-223.571014,62.277790"
+              stroke="#f97743" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Figurky id_Týden_v_tichém_domě"
+              d="M -224.790192,140.205521 A 140.068405,140.068405 0,0 1,-187.409637,-6.779663"
+              stroke="#f97743" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Figurky id_Večerní_šplechty"
+              d="M -212.682755,144.459671 A 309.257953,309.257953 0,0 1,140.763763,176.741180"
+              stroke="#c98694" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_si_nakouřil_pan_Vorel_pěnovku id_Pan_Ryšánek_a_pan_Schlegl"
+              d="M 188.477127,14.779305 A 159.878941,159.878941 0,0 1,35.701466,-71.565269"
+              stroke="#61a4a7" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_si_nakouřil_pan_Vorel_pěnovku id_Svatováclavská_mše"
+              d="M 203.791794,22.243427 A 45.730557,45.730557 0,0 1,204.998123,59.884663"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_si_nakouřil_pan_Vorel_pěnovku id_Týden_v_tichém_domě"
+              d="M 189.936035,19.081429 A 316.044096,316.044096 0,0 1,-172.198853,-6.891351"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Pan_Ryšánek_a_pan_Schlegl"
+              d="M 89.447998,89.660400 A 156.644484,156.644484 0,0 1,28.919918,-70.908577"
+              stroke="#61a4a7" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Přivedla_žebráka_na_mizinu"
+              d="M 93.102409,86.420326 A 176.990375,176.990375 0,0 1,119.793747,-107.810120"
+              stroke="#61a4a7" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Psáno_o_letošních_dušičkách"
+              d="M 88.908203,100.045532 A 265.139073,265.139073 0,0 1,-210.496338,60.971680"
+              stroke="#c98694" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Svatováclavská_mše"
+              d="M 104.374344,87.842056 A 88.238248,88.238248 0,0 1,190.734604,65.387886"
+              stroke="#9a96e5" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Týden_v_tichém_domě"
+              d="M 88.020218,97.773682 A 248.382304,248.382304 0,0 1,-174.418640,-4.932803"
+              stroke="#c98694" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_U_tří_lilií"
+              d="M 107.379639,92.752899 A 116.095551,116.095551 0,0 1,223.028229,134.085281"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Jak_to_přišlo... id_Večerní_šplechty"
+              d="M 106.647331,99.779366 A 84.604565,84.604565 0,0 1,148.919891,173.342804"
+              stroke="#9a96e5" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_O_měkkém_srdci_paní_Rusky id_Pan_Ryšánek_a_pan_Schlegl"
+              d="M -211.014969,-63.982086 A 209.216440,209.216440 0,0 1,22.762693,-85.626816"
+              stroke="#909556" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_O_měkkém_srdci_paní_Rusky id_Svatováclavská_mše"
+              d="M -209.149506,-60.758560 A 364.455705,364.455705 0,0 1,194.146942,60.681606"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_O_měkkém_srdci_paní_Rusky id_Týden_v_tichém_domě"
+              d="M -209.060242,-54.406235 A 48.926024,48.926024 0,0 1,-181.635757,-23.167616"
+              stroke="#f97743" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pan_Ryšánek_a_pan_Schlegl id_Přivedla_žebráka_na_mizinu"
+              d="M 37.366642,-88.623253 A 84.402482,84.402482 0,0 1,116.901596,-117.457008"
+              stroke="#28b36a" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Pan_Ryšánek_a_pan_Schlegl id_Týden_v_tichém_domě"
+              d="M 25.383747,-72.610611 A 184.756055,184.756055 0,0 1,-170.323013,-10.294840"
+              stroke="#909556" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Přivedla_žebráka_na_mizinu id_Svatováclavská_mše"
+              d="M 135.005310,-109.660889 A 164.952742,164.952742 0,0 1,202.490341,58.920177"
+              stroke="#61a4a7" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Psáno_o_letošních_dušičkách id_Týden_v_tichém_domě"
+              d="M -218.318939,44.137432 A 64.487397,64.487397 0,0 1,-188.662827,-8.598546"
+              stroke="#f97743" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Svatováclavská_mše id_U_tří_lilií"
+              d="M 208.260651,74.552002 A 65.780840,65.780840 0,0 1,230.835892,132.372330"
+              stroke="#9a96e5" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Svatováclavská_mše id_Večerní_šplechty"
+              d="M 201.887222,78.505745 A 104.889783,104.889783 0,0 1,156.817459,178.096146"
+              stroke="#9a96e5" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Týden_v_tichém_domě id_Večerní_šplechty"
+              d="M -169.890549,-14.206117 A 318.797925,318.797925 0,0 1,144.369659,174.124542"
+              stroke="#c98694" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_U_tří_lilií id_Večerní_šplechty"
+              d="M 223.912811,150.852142 A 75.413599,75.413599 0,0 1,158.236969,184.373306"
+              stroke="#9a96e5" stroke-width="1.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="62.90432"
+                class="id_Doktor_Kazisvět" cy="39.465378" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="97.7085"
+                class="id_Jak_to_přišlo..." cy="95.29636" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="31.404501"
+                class="id_Pan_Ryšánek_a_pan_Schlegl" cy="-80.595"
+                stroke="#1c7d4a" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="-179.85191"
+                class="id_Týden_v_tichém_domě" cy="-13.328009" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="-221.27905"
+                class="id_Figurky" cy="149.56885" stroke="#ae532e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="-217.78307"
+                class="id_Psáno_o_letošních_dušičkách" cy="54.123062"
+                stroke="#ae532e" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="148.29227"
+                class="id_Večerní_šplechty" cy="183.32309" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="198.42934"
+                class="id_Jak_si_nakouřil_pan_Vorel_pěnovku" cy="13.802809"
+                stroke="#6b69a0" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="200.18712"
+                class="id_Svatováclavská_mše" cy="68.65132" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#28b36a" r="9.2" cx="126.62339"
+                class="id_Přivedla_žebráka_na_mizinu" cy="-115.11464"
+                stroke="#1c7d4a" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#9a96e5" r="9.2" cx="228.89644"
+                class="id_U_tří_lilií" cy="142.18245" stroke="#6b69a0"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f97743" r="9.2" cx="-218.58603"
+                class="id_O_měkkém_srdci_paní_Rusky" cy="-57.449173"
+                stroke="#ae532e" stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="62.90432" y="43.85405" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Doktor_Kazisvět">
+            Doktor Kazisvět
+        </text>
+        <text font-size="24" x="97.7085" y="100.808075" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jak_to_přišlo...">
+            Jak to přišlo...
+        </text>
+        <text font-size="24" x="31.404501" y="-74.96219" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Pan_Ryšánek_a_pan_Schlegl">
+            Pan Ryšánek a pan Schlegl
+        </text>
+        <text font-size="24" x="-179.85191" y="-7.7459774" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Týden_v_tichém_domě">
+            Týden v tichém domě
+        </text>
+        <text font-size="24" x="-221.27905" y="155.12744" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Figurky">
+            Figurky
+        </text>
+        <text font-size="24" x="-217.78307" y="58.511734" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Psáno_o_letošních_dušičkách">
+            Psáno o letošních dušičkách
+        </text>
+        <text font-size="24" x="148.29227" y="188.90512" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Večerní_šplechty">
+            Večerní šplechty
+        </text>
+        <text font-size="24" x="198.42934" y="19.314528" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Jak_si_nakouřil_pan_Vorel_pěnovku">
+            Jak si nakouřil pan Vorel pěnovku
+        </text>
+        <text font-size="24" x="200.18712" y="73.09468" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Svatováclavská_mše">
+            Svatováclavská mše
+        </text>
+        <text font-size="24" x="126.62339" y="-110.72597" fill="#28b36a"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Přivedla_žebráka_na_mizinu">
+            Přivedla žebráka na mizinu
+        </text>
+        <text font-size="24" x="228.89644" y="146.57503" fill="#9a96e5"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_U_tří_lilií">
+            U tří lilií
+        </text>
+        <text font-size="24" x="-218.58603" y="-51.814407" fill="#f97743"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_O_měkkém_srdci_paní_Rusky">
+            O měkkém srdci paní Rusky
+        </text>
+    </g>
+</svg>

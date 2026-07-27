@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="395.12137"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-143.269867 -82.488205 395.121368 159.502319" height="159.50232"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_I id_F._L._Věk_II"
+              d="M -79.300827,-18.840206 A 72.115139,72.115139 0,0 1,-10.854591,-5.445011"
+              stroke="#ee7993" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_I id_F._L._Věk_III"
+              d="M -82.475456,-23.040291 A 149.309343,149.309343 0,0 1,72.857971,-71.705635"
+              stroke="#969588" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_I id_F._L._Věk_IV"
+              d="M -81.062782,-21.712988 A 203.153717,203.153717 0,0 1,145.281311,-44.557304"
+              stroke="#969588" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_I id_Filozofská_historie"
+              d="M -78.898499,-12.636140 A 87.835925,87.835925 0,0 1,-19.523907,53.322212"
+              stroke="#ee7993" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_II id_F._L._Věk_III"
+              d="M -0.729361,-8.064321 A 92.536401,92.536401 0,0 1,72.437111,-67.743065"
+              stroke="#969588" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_II id_F._L._Věk_IV"
+              d="M 2.854033,-6.092242 A 135.746289,135.746289 0,0 1,144.579681,-43.047165"
+              stroke="#969588" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_II id_Filozofská_historie"
+              d="M -0.517797,10.991879 A 52.814440,52.814440 0,0 1,-11.046626,56.092331"
+              stroke="#ee7993" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_II id_Temno"
+              d="M 5.579371,5.329604 A 34.703250,34.703250 0,0 1,20.695730,24.076166"
+              stroke="#ee7993" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_III id_F._L._Věk_IV"
+              d="M 92.231071,-70.477493 A 64.383199,64.383199 0,0 1,148.165329,-47.747570"
+              stroke="#3fb17d" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_III id_F._L._Věk_V"
+              d="M 92.333374,-69.772781 A 103.810662,103.810662 0,0 1,187.801117,-19.247530"
+              stroke="#3fb17d" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_IV id_F._L._Věk_V"
+              d="M 163.884537,-38.314449 A 40.278408,40.278408 0,0 1,188.569946,-19.615210"
+              stroke="#3fb17d" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_F._L._Věk_IV id_Temno"
+              d="M 149.552658,-30.630793 A 125.535718,125.535718 0,0 1,32.438931,34.852077"
+              stroke="#969588" stroke-width="1.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none" class="id_F._L._Věk_V id_Temno"
+              d="M 186.005295,-2.810908 A 146.415272,146.415272 0,0 1,31.861946,37.384148"
+              stroke="#969588" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Filozofská_historie id_Temno"
+              d="M -13.971488,54.091705 A 41.688863,41.688863 0,0 1,12.535356,34.937935"
+              stroke="#ee7993" stroke-width="3.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="-88.58431"
+                class="id_F._L._Věk_I" cy="-15.123103" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="-3.6572227"
+                class="id_F._L._Věk_II" cy="1.4974589" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="82.392235"
+                class="id_F._L._Věk_III" cy="-68.68938" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="153.96794"
+                class="id_F._L._Věk_IV" cy="-39.603264" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="-18.065426"
+                class="id_Filozofská_historie" cy="63.215282" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ee7993" r="9.2" cx="22.482916"
+                class="id_Temno" cy="33.91517" stroke="#a65466"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#3fb17d" r="9.2" cx="192.49603"
+                class="id_F._L._Věk_V" cy="-10.418157" stroke="#2c7b57"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-88.58431" y="-10.734431" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_F._L._Věk_I">
+            F. L. Věk I
+        </text>
+        <text font-size="24" x="-3.6572227" y="5.886131" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_F._L._Věk_II">
+            F. L. Věk II
+        </text>
+        <text font-size="24" x="82.392235" y="-64.300705" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_F._L._Věk_III">
+            F. L. Věk III
+        </text>
+        <text font-size="24" x="153.96794" y="-35.214592" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_F._L._Věk_IV">
+            F. L. Věk IV
+        </text>
+        <text font-size="24" x="-18.065426" y="67.65474" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Filozofská_historie">
+            Filozofská historie
+        </text>
+        <text font-size="24" x="22.482916" y="38.280403" fill="#ee7993"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Temno">
+            Temno
+        </text>
+        <text font-size="24" x="192.49603" y="-6.0294847" fill="#3fb17d"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_F._L._Věk_V">
+            F. L. Věk V
+        </text>
+    </g>
+</svg>

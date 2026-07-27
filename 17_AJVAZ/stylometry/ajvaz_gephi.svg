@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="458.31146"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-206.189102 -55.163960 458.311462 188.962540" height="188.96254"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path stroke-linecap="round" fill="none"
+              class="id_Druhé_město id_Luxemburská_zahrada"
+              d="M -61.080437,-32.044281 A 88.373778,88.373778 0,0 1,-80.259491,55.269360"
+              stroke="#a99c88" stroke-width="3.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Druhé_město id_Návrat_starého_varana"
+              d="M -55.279579,-38.018150 A 164.794534,164.794534 0,0 1,49.579643,109.999809"
+              stroke="#a99c88" stroke-width="6.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Druhé_město id_Vražda_v_hotelu_Intercontinental"
+              d="M -55.353069,-44.912224 A 127.065018,127.065018 0,0 1,76.716705,-12.377165"
+              stroke="#a99c88" stroke-width="5.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luxemburská_zahrada id_Návrat_starého_varana"
+              d="M -77.662445,60.186440 A 123.957820,123.957820 0,0 1,44.226578,111.573547"
+              stroke="#a99c88" stroke-width="4.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Luxemburská_zahrada id_Vražda_v_hotelu_Intercontinental"
+              d="M -81.927444,53.880424 A 152.927990,152.927990 0,0 1,73.627151,-7.235364"
+              stroke="#a99c88" stroke-width="2.0" stroke-opacity="1.0"/>
+        <path stroke-linecap="round" fill="none"
+              class="id_Návrat_starého_varana id_Vražda_v_hotelu_Intercontinental"
+              d="M 46.340279,110.549988 A 107.807664,107.807664 0,0 1,75.764389,1.624309"
+              stroke="#a99c88" stroke-width="4.0" stroke-opacity="1.0"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="-64.702835"
+                class="id_Druhé_město" cy="-41.36513" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="-87.45473"
+                class="id_Luxemburská_zahrada" cy="62.21404" stroke="#766d5f"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="49.61165"
+                class="id_Návrat_starého_varana" cy="119.999756"
+                stroke="#766d5f" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#a99c88" r="9.2" cx="83.34894"
+                class="id_Vražda_v_hotelu_Intercontinental" cy="-4.892948"
+                stroke="#766d5f" stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="-64.702835" y="-36.97646" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Druhé_město">
+            Druhé město
+        </text>
+        <text font-size="24" x="-87.45473" y="66.60271" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Luxemburská_zahrada">
+            Luxemburská zahrada
+        </text>
+        <text font-size="24" x="49.61165" y="124.38843" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Návrat_starého_varana">
+            Návrat starého varana
+        </text>
+        <text font-size="24" x="83.34894" y="-0.5042763" fill="#a99c88"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Vražda_v_hotelu_Intercontinental">
+            Vražda v hotelu Intercontinental
+        </text>
+    </g>
+</svg>

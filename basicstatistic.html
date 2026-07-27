@@ -1,0 +1,527 @@
+﻿<!doctype html>
+<html lang="en" data-bs-theme="auto">
+  <head><script src="assets/js/color-modes.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.122.0">
+    <title>Author Statistic</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/jumbotron/">   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">   
+    <link href="style/main-style.css" rel="stylesheet">
+    <link rel="stylesheet" href="style/basic_statistic.css" />
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@11.4.8/highcharts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@11.4.8/series-label.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@11.4.8/modules/exporting.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@11.4.8/modules/export-data.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@11.4.8/modules/accessibility.js"></script>
+    <script src ="js/date.js"></script>
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .btn-bd-primary {
+        --bd-violet-bg: #712cf9;
+        --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-white);
+        --bs-btn-bg: var(--bd-violet-bg);
+        --bs-btn-border-color: var(--bd-violet-bg);
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg: #6528e0;
+        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: #5a23c8;
+        --bs-btn-active-border-color: #5a23c8;
+      }
+
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        display: block !important;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 1rem;
+      }
+
+      li {
+        display: inline;
+        margin-right: 2rem;
+        
+
+      }
+      li a {
+        text-decoration: none;
+      }
+    </style>
+
+  </head>
+<body onload="loadTime();">
+<main>
+  <div class="container py-4">   
+
+    <ul>
+        <li><a href="index.html"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-house" viewBox="0 0 16 16"><path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293zM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5z"/></svg> Home</a></li>
+    </ul>
+
+    <div class="p-5 mb-4 bg-body-tertiary rounded-3">
+      <div class="container-fluid py-0">
+        <h1 style="text-align: center; color: #d63384">Author Statistics</h1>
+      </div>
+    </div>
+    
+    <p>The statistical summary provides basic informations about the whole corpus. Informations about the author corpora is shown in a graph.</p>
+    <br><br>
+
+    <figure class="highcharts-figure">
+        <div id="container"></div>
+    </figure>
+
+    <script>
+        Highcharts.chart('container', {
+            chart: {
+                type: 'line'
+            },
+            title: {
+                text: ''
+            },
+            xAxis: {
+                categories: [
+                    'Karel Hynek Mácha', 
+                    'Jan Neruda', 
+                    'Jakub Arbes', 
+                    'Josef Jiří Kolár',
+                    'Julius Zeyer',
+                    'Karolina Světlá',
+                    'Svatopluk Čech',
+                    'Zikmund Winter',
+                    'Alois Jirásek',
+                    'Vilém Mrštík',
+                    'Ignát Herrmann',
+                    'Karel Matěj Čapek-Chod',
+                    'Antonín Sova',
+                    'Jaroslav Hašek',
+                    'Gustav Meyrink',
+                    'Franz Kafka',
+                    'Michal Ajvaz',
+                    'Daniela Hodrová',
+                    'Miloš Urban',
+                    'Petr Stančík'
+                ]
+            },
+            yAxis: {
+                title: {
+                    text: 'Values'
+                }
+            },
+            series: [{
+                // TATO DATA NAHRÁT DO SOUBORU basic_statistic.js
+                name: 'lemmas',
+                data: [
+                    15303, // Mácha
+                    18116, // Neruda
+                    232873, // Arbes
+                    7437, // Kolár
+                    13931, // Zeyer
+                    35630, // Světlá
+                    13830, // Čech
+                    14891, // Winter
+                    70608, // Jirásek
+                    10050, // Mrštík
+                    68686, // Herrmann
+                    8507, // Čapek-Chod
+                    8701, // Sova
+                    16096, // Hašek(švejk1+švejk2)
+                    36109, // Meyrink
+                    7764, // Kafka
+                    20063, // Ajvaz
+                    44264, // Hodrová
+                    122242, // Urban
+                    19048, // Stančík
+                ]
+            }, {
+                // TATO DATA NAHRÁT DO SOUBORU basic_statistic.js
+                name: 'sentences',
+                data: [
+                    3125, // Mácha
+                    5211, // Neruda
+                    77621, // Arbes
+                    1878, // Kolár
+                    7443, // Zeyer
+                    9799, // Světlá
+                    3419, // Čech
+                    7704, // Winter
+                    49336, // Jirásek
+                    4657, // Mrštík
+                    26746, // Herrmann
+                    2224, // Čapek-Chod
+                    5055, // Sova
+                    6686, // Hašek (švejk1+švejk2)
+                    14655, // Meyrink
+                    2771, // Kafka
+                    4366, // Ajvaz
+                    20564, // Hodrová
+                    60083, // Urban
+                    5667, // Stančík
+                ]
+            },{
+                name: 'average sentence lenght',
+                data: [
+                    19.71, // Mácha
+                    13.53, // Neruda
+                    20.75, // Arbes
+                    24.26, // Kolár
+                    15.15, // Zeyer
+                    24.76, // Světlá
+                    20.80, // Čech
+                    18.47, // Winter
+                    15.51, // Jirásek
+                    19.21, // Mrštík
+                    16.51, // Herrmann
+                    21.20, // Čapek-Chod
+                    12.97, // Sova
+                    17.20, // Hašek (švejk1+švejk2)
+                    18.26, // Meyrink
+                    21.49, // Kafka
+                    20.04, // Ajvaz
+                    19.25, // Hodrová
+                    13.32, // Urban
+                    15.85, // Stančík
+                ]
+            },{
+                name: 'median sentence lenght',
+                data: [
+                    15, // Mácha
+                    11, // Neruda
+                    16, // Arbes
+                    19, // Kolár
+                    12, // Zeyer
+                    21, // Světlá
+                    16, // Čech
+                    13, // Winter
+                    12, // Jirásek
+                    14, // Mrštík
+                    13, // Herrmann
+                    18, // Čapek-Chod
+                    11, // Sova
+                    13, // Hašek (švejk1+švejk2)
+                    14, // Meyrink
+                    17, // Kafka
+                    20, // Ajvaz
+                    14, // Hodrová
+                    11, // Urban
+                    14, // Stančík
+                ]
+            }]
+        });
+    </script>
+
+    <!-- autohros statistiscs-->
+    <div style="width: 100%; text-align: justify; font-size: 15px; font-family:Verdana, Geneva, Tahoma, sans-serif; margin-bottom: 3.5rem; margin-top: 3.5rem;">
+        <p>The table provides a basic statistical overview for each author.</p>
+    </div>
+    
+    <div style="margin-top: 20px;">
+        <select onchange="showGraphAuthor()" id="author_cluster" style="float: left;">
+            <option>-- select --</option>
+            <option value="macha">Karel Hynek Mácha</option>
+            <option value="neruda">Jan Neruda</option>
+            <option value="arbes">Jakub Arbes</option>
+            <option value="kolar">Josef Jiří Kolár</option>
+            <option value="zeyer">Julius Zeyer</option>
+            <option value="svetla">Karolina Světlá</option>
+            <option value="cech">Svatopluk Čech</option>
+            <option value="winter">Zikmund Winter</option>
+            <option value="jirasek">Alois Jirásek</option>
+            <option value="mrstik">Vilém Mrštík</option>
+            <option value="herrmann">Ignát Herrmann</option>
+            <option value="chod">Karel Matěj Čapek-Chod</option>
+            <option value="sova">Antonín Sova</option>
+            <option value="hasek">Jaroslav Hašek</option>
+            <option value="meyrink">Gustav Meyrink</option>
+            <option value="kafka">Franz Kafka</option>
+            <option value="ajvaz">Michal Ajvaz</option>
+            <option value="hodrova">Daniela Hodrová</option>
+            <option value="urban">Miloš Urban</option>
+            <option value="stancik">Petr Stančík</option>
+        </select>
+        
+        <div style="float: left; margin-left: 50px;">
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Words</p><p id="words"></p>
+                </div>
+            </div>
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Tokens</p><p id="tokens"></p>
+                </div>
+            </div>
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Lemmas</p><p id="lemmas"></p>
+                </div>
+            </div>
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Sentences</p><p id="sentences"></p>
+                </div>
+            </div>
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Average Sentence Lenght</p><p id="average_sentence"></p>
+                </div>
+            </div>
+            <div id = "entity">
+                <div class="words_frame">
+                    <p id="title">Median Sentences Lenght</p><p id="median_sentence"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+    function showGraphAuthor(){
+        var option = document.getElementById("author_cluster").value;
+        switch(option){
+            case "macha":
+                document.getElementById("words").innerHTML = "62,151";
+                document.getElementById("tokens").innerHTML = "75,264";
+                document.getElementById("lemmas").innerHTML = "15,303";
+                document.getElementById("sentences").innerHTML = "3,125";
+                document.getElementById("average_sentence").innerHTML = "19,71";
+                document.getElementById("median_sentence").innerHTML = "15";
+                break;
+            case "neruda":
+                document.getElementById("words").innerHTML = "71,066";
+                document.getElementById("tokens").innerHTML = "87,601";
+                document.getElementById("lemmas").innerHTML = "18,116";
+                document.getElementById("sentences").innerHTML = "5,211";
+                document.getElementById("average_sentence").innerHTML = "13,53";
+                document.getElementById("median_sentence").innerHTML = "11";
+                break;
+            case "arbes":
+                document.getElementById("words").innerHTML = "1,606,185";
+                document.getElementById("tokens").innerHTML = "1,969,559";
+                document.getElementById("lemmas").innerHTML = "232,873";
+                document.getElementById("sentences").innerHTML = "77,621";
+                document.getElementById("average_sentence").innerHTML = "20,75";
+                document.getElementById("median_sentence").innerHTML = "16";
+                break;
+            case "kolar":
+                document.getElementById("words").innerHTML = "45,132";
+                document.getElementById("tokens").innerHTML = "54,039";
+                document.getElementById("lemmas").innerHTML = "7,437";
+                document.getElementById("sentences").innerHTML = "1,878";
+                document.getElementById("average_sentence").innerHTML = "24,26";
+                document.getElementById("median_sentence").innerHTML = "19";
+                break;
+            case "zeyer":
+                document.getElementById("words").innerHTML = "113,596";
+                document.getElementById("tokens").innerHTML = "141,364";
+                document.getElementById("lemmas").innerHTML = "13,931";
+                document.getElementById("sentences").innerHTML = "7,443";
+                document.getElementById("average_sentence").innerHTML = "15,15";
+                document.getElementById("median_sentence").innerHTML = "12";
+                break;
+            case "svetla":
+                document.getElementById("words").innerHTML = "243,479";
+                document.getElementById("tokens").innerHTML = "289,575";
+                document.getElementById("lemmas").innerHTML = "35,630";
+                document.getElementById("sentences").innerHTML = "9,799";
+                document.getElementById("average_sentence").innerHTML = "24,76";
+                document.getElementById("median_sentence").innerHTML = "21";
+                break;
+            case "cech":
+                document.getElementById("words").innerHTML = "71,995";
+                document.getElementById("tokens").innerHTML = "85,833";
+                document.getElementById("lemmas").innerHTML = "13,830";
+                document.getElementById("sentences").innerHTML = "3,419";
+                document.getElementById("average_sentence").innerHTML = "20,80";
+                document.getElementById("median_sentence").innerHTML = "16";
+                break;
+            case "winter":
+                document.getElementById("words").innerHTML = "143,318";
+                document.getElementById("tokens").innerHTML = "170,147";
+                document.getElementById("lemmas").innerHTML = "14,891";
+                document.getElementById("sentences").innerHTML = "7,704";
+                document.getElementById("average_sentence").innerHTML = "18,47";
+                document.getElementById("median_sentence").innerHTML = "13";
+                break;
+            case "jirasek":
+                document.getElementById("words").innerHTML = "770,095";
+                document.getElementById("tokens").innerHTML = "949,433";
+                document.getElementById("lemmas").innerHTML = "70,608";
+                document.getElementById("sentences").innerHTML = "49,336";
+                document.getElementById("average_sentence").innerHTML = "15,51";
+                document.getElementById("median_sentence").innerHTML = "12";
+                break;
+            case "mrstik":
+                document.getElementById("words").innerHTML = "89,448";
+                document.getElementById("tokens").innerHTML = "109,023";
+                document.getElementById("lemmas").innerHTML = "10,050";
+                document.getElementById("sentences").innerHTML = "4,657";
+                document.getElementById("average_sentence").innerHTML = "19,21";
+                document.getElementById("median_sentence").innerHTML = "14";
+                break;
+            case "herrmann":
+                document.getElementById("words").innerHTML = "440,001";
+                document.getElementById("tokens").innerHTML = "551,190";
+                document.getElementById("lemmas").innerHTML = "68,686";
+                document.getElementById("sentences").innerHTML = "26,746";
+                document.getElementById("average_sentence").innerHTML = "16,51";
+                document.getElementById("median_sentence").innerHTML = "13";
+                break;
+            case "chod":
+                document.getElementById("words").innerHTML = "47,625";
+                document.getElementById("tokens").innerHTML = "57,609";
+                document.getElementById("lemmas").innerHTML = "8,507";
+                document.getElementById("sentences").innerHTML = "2,224";
+                document.getElementById("average_sentence").innerHTML = "21,20";
+                document.getElementById("median_sentence").innerHTML = "18";
+                break;
+            case "sova":
+                document.getElementById("words").innerHTML = "65,976";
+                document.getElementById("tokens").innerHTML = "81,682";
+                document.getElementById("lemmas").innerHTML = "8,701";
+                document.getElementById("sentences").innerHTML = "5,055";
+                document.getElementById("average_sentence").innerHTML = "12,97";
+                document.getElementById("median_sentence").innerHTML = "11";
+                break;
+            case "hasek":
+                document.getElementById("words").innerHTML = "116,313";
+                document.getElementById("tokens").innerHTML = "140,777";
+                document.getElementById("lemmas").innerHTML = "16,096";
+                document.getElementById("sentences").innerHTML = "6,686";
+                document.getElementById("average_sentence").innerHTML = "17,20";
+                document.getElementById("median_sentence").innerHTML = "13";
+                break;
+            case "meyrink":
+                document.getElementById("words").innerHTML = "266,487";
+                document.getElementById("tokens").innerHTML = "324,487";
+                document.getElementById("lemmas").innerHTML = "36,109";
+                document.getElementById("sentences").innerHTML = "14,655";
+                document.getElementById("average_sentence").innerHTML = "18,26";
+                document.getElementById("median_sentence").innerHTML = "14";
+                break;
+            case "kafka":
+                document.getElementById("words").innerHTML = "60,554";
+                document.getElementById("tokens").innerHTML = "76,660";
+                document.getElementById("lemmas").innerHTML = "7,764";
+                document.getElementById("sentences").innerHTML = "2,771";
+                document.getElementById("average_sentence").innerHTML = "21,49";
+                document.getElementById("median_sentence").innerHTML = "17";
+                break;
+            case "ajvaz":
+                document.getElementById("words").innerHTML = "113,940";
+                document.getElementById("tokens").innerHTML = "134,021";
+                document.getElementById("lemmas").innerHTML = "20,063";
+                document.getElementById("sentences").innerHTML = "4,366";
+                document.getElementById("average_sentence").innerHTML = "20,04";
+                document.getElementById("median_sentence").innerHTML = "20";
+                break;
+            case "hodrova":
+                document.getElementById("words").innerHTML = "396,488";
+                document.getElementById("tokens").innerHTML = "472,212";
+                document.getElementById("lemmas").innerHTML = "44,264";
+                document.getElementById("sentences").innerHTML = "20,564";
+                document.getElementById("average_sentence").innerHTML = "19,25";
+                document.getElementById("median_sentence").innerHTML = "14";
+                break;
+            case "urban":
+                document.getElementById("words").innerHTML = "803,390";
+                document.getElementById("tokens").innerHTML = "981,030";
+                document.getElementById("lemmas").innerHTML = "122,242";
+                document.getElementById("sentences").innerHTML = "60,083";
+                document.getElementById("average_sentence").innerHTML = "13,32";
+                document.getElementById("median_sentence").innerHTML = "11";
+                break;
+            case "stancik":
+                document.getElementById("words").innerHTML = "90,734";
+                document.getElementById("tokens").innerHTML = "107,660";
+                document.getElementById("lemmas").innerHTML = "19,048";
+                document.getElementById("sentences").innerHTML = "5,667";
+                document.getElementById("average_sentence").innerHTML = "15,85";
+                document.getElementById("median_sentence").innerHTML = "14";
+                break;
+            default:
+                document.getElementById("words").innerHTML = "";
+                document.getElementById("lemmas").innerHTML = "";
+                document.getElementById("tokens").innerHTML = "";
+                document.getElementById("sentences").innerHTML = "";
+                document.getElementById("average_sentence").innerHTML = "";
+                document.getElementById("median_sentence").innerHTML = "";
+        }
+    }
+    </script>
+
+    <div style="clear:both;"></div>
+    <footer> 
+        
+    </footer>
+  </div>
+</main>
+</body>
+</body>
+</html>

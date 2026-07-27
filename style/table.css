@@ -1,0 +1,11 @@
+table {
+    margin-top: 1rem;
+    width: 100%;
+    height: auto;
+}
+td {
+    font-size: medium;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
+}

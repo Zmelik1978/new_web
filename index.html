@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en" data-bs-theme="auto">
+  <head><script src="assets/js/color-modes.js"></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.122.0">
+    <title>Digital Humanities in Literary and Book Studies</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/jumbotron/">   
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="style/bar-style.css" rel="stylesheet">
+    <link href="style/table.css" rel="stylesheet">
+    <link href="style/chatbot.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@12.1.2/highcharts.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@12.1.2/modules/exporting.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@12.1.2/modules/export-data.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/highcharts@12.1.2/modules/accessibility.js"></script>
+    <!--
+    <link rel="icon" href="icons/favicon_kcp.png" type="image/x-icon">  
+    -->
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+      .btn-bd-primary {
+        --bd-violet-bg: #712cf9;
+        --bd-violet-rgb: 112.520718, 44.062154, 249.437846;
+
+        --bs-btn-font-weight: 600;
+        --bs-btn-color: var(--bs-white);
+        --bs-btn-bg: var(--bd-violet-bg);
+        --bs-btn-border-color: var(--bd-violet-bg);
+        --bs-btn-hover-color: var(--bs-white);
+        --bs-btn-hover-bg: #6528e0;
+        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+        --bs-btn-active-color: var(--bs-btn-hover-color);
+        --bs-btn-active-bg: #5a23c8;
+        --bs-btn-active-border-color: #5a23c8;
+      }
+
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        display: block !important;
+      }
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 1rem;
+      }
+
+      li {
+        display: inline;
+        margin-right: 2rem;
+        
+
+      }
+      li a {
+        text-decoration: none;
+      }
+    </style>
+  
+  </head>
+  
+<main>
+  <div class="container py-4">
+    
+    <ul style="width: 100%; text-align: left; font-size: 0.96rem; font-weight: 500;">
+      <li><a href="news.html">News & Archive</a></li>
+      <li><a href="corpus.html" style="letter-spacing: 0.01cm;"><b>CORPUS</b></a></li>
+      <li><a href="opendata.html">Open Data</a></li>
+      <li><a href="basicstatistic.html">Author Stats</a></li>
+      <li><a href="https://zmelik.app.n8n.cloud/form/412f829c-d1ca-426c-a59e-dfb26d6b36d3" target="_blank">OCR</a></li>
+      <li><a href="people.html">People</a></li>
+      <li><a href="publications.html">Publications</a></li>
+      <li><a href="photogallery.html">Gallery</a></li>
+      <li><a href="corpus_structure.html">Info</a></li>
+      <li><a href="logo.html">Logo</a></li>
+      <li><a href="links.html">Links</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li><a href="DH_conference_web/conference_web.html">CfP</a></li>
+      <li><a href="web_statistic.html">Web Stats</a></li>
+    </ul>
+    
+    
+    <!-- Chatbot toggle button -->
+    <button id="chatbot-toggle" aria-label="Open chatbot">
+      <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" viewBox="0 0 16 16">
+        <path d="M2.678 11.894a1 1 0 0 1 .287.801 11 11 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8 8 0 0 0 8 14c3.996 0 7-2.807 7-6s-3.004-6-7-6-7 2.808-7 6c0 1.468.617 2.83 1.678 3.894m-.493 3.905a22 22 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a10 10 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9 9 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105"/>
+      </svg>
+    </button>
+
+    <!-- Chatbot HTML -->
+    <div id="chatbot" style="display:none;">
+      <div id="chatbot-header">
+        Corpus Chatbot
+        <span id="chatbot-close">X</span>
+      </div>
+      <div id="chatbot-messages"></div>
+      <div id="chatbot-questions">
+        <button class="chatbot-question" style="color: blue; margin-bottom: -1rem;">What type of corpus is it?</button>
+        <button class="chatbot-question" style="color: blue; margin-bottom: -1rem;">How can I access the corpus?</button>
+        <button class="chatbot-question" style="color: blue; margin-bottom: -1rem;">What exactly does the corpus offer?</button>
+        <button class="chatbot-question" style="color: blue; margin-bottom: -1rem;">What is the structure of the corpus?</button>
+      </div>
+      <input id="chatbot-input" type="text" placeholder="Type a message (e.g. literary cartography)...">
+      <button id="chatbot-send">Send</button>
+    </div>
+       
+    <script src="js/chatbot.js"></script>
+ 
+
+    <div class="p-5 mb-4 bg-body-tertiary rounded-3">
+      <div class="container-fluid py-5">
+        <h1 style="margin-bottom: 2rem; text-align: center; color: #d63384; font-weight: bold;">Literary Cartographic and Quantitative Models of Czech Novels from the 19<sup>th</sup> to 21<sup>st</sup> Century</h1>
+        <br>
+          <p style="text-align: justify; font-weight: 600; font-size: 1.45cap;">The project has three main objectives. The first one is to present a corpus of literary and cartographic models of fictional topographies of Czech prose that strongly thematise Prague. The purpose of the database is to make available map models of fictional topographies of Prague in Czech prose, especially from the second half of the 19th century onwards, which should serve to analyse and compare structural and morphological correspondences and differences in the ways of configuring the literary topography of Prague in literary works. The insights that emerge from these comparisons should contribute to a more systematic understanding of the more complex and complex issues of literary representation of Prague. The second aim is to present selected quantitative models that add another important dimension to literary-cartographic models by providing specific and unique statistical information about texts that map models do not contain. By combining the two main methodologies (mapping and quantitative analysis), it is possible to arrive at results that are able to provide completely original and otherwise difficult to obtain information that offers the potential to become a significant source of new insights into the ways in which Prague topography is treated in Czech literature and how it relates to other structural features of texts. The third part of the project is the Linguistic Literary Corpus, which adds further potential to the project by providing the possibility to mine literary texts based on predefined corpus analysis options (collocation, concordance, word frequency distribution, word types, word search in close contexts, sentiment analysis, etc.). A technical description of the project and its unified functions can be found in the <a href="corpus_structure.html" style="text-decoration: none;">Info</a> section.
+          </p>
+      </div>
+    </div>
+    
+    <div class="row align-items-md-stretch" style="float: left;">
+    <div class="col-md-6">
+      <figure class="highcharts-figure">
+        <div id="container-bar"></div>
+    </figure>   
+    <script src="js/bar-chart.js"></script>
+    </div>
+    
+    <div class="col-md-13">
+      <figure class="highcharts-figure">
+        <div id="container-pie"></div>
+    </figure>
+    <script src="js/pie-chart.js"></script>
+    </div>
+
+    <div style="height: 2rem;"></div>
+
+    <div class="col-md-3">
+      <figure class="highcharts-figure">
+        <div id="container-novels"></div>
+    </figure>
+    <script src="js/bar-novels.js"></script>
+    </div>
+
+    <div class="col-md-3">
+      <figure class="highcharts-figure">
+        <div id="container-year"></div>
+    </figure>   
+    <script src="js/bar-years.js"></script>
+    </div>
+       
+    <div class="col-md-2">
+      <h5 style="font-weight: bold; margin-top: 1.47rem;">Corpus Statistics</h5>
+      <table>
+        <tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Tokens</td>
+          <td style="color: #5a23c8;"><span id="total_num_tokens"></span></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Lemmas</td>
+          <td style="color: #5a23c8;"><span id="total_num_lemmas"></span></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Sentences</td>
+          <td style="color: #5a23c8;"><span id="total_num_sentences"></span></td>
+        </tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Texts</td>
+          <td style="color: #5a23c8;">174</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Authors</td>
+          <td style="color: #5a23c8;">20</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold; font-size: normal; padding: 5px;">Authors of 19<sup>th</sup> / 20<sup>th</sup> / 21<sup>th</sup> Century</td>
+          <td style="color: #5a23c8;">11 / 5 / 4</td>
+        </tr>
+      </table>
+    </div>
+
+    <script src="js/tab_statistic.js"></script>
+
+    <hr>
+
+    <footer>
+      <div style="float: left;">
+        <p style="text-align: left; font-size: smaller;">This web use <a href="cookies.html" style="text-decoration: none;">cookies</a></p>
+      </div>
+
+      <div style="float: right;">
+        <p style="text-align: right; font-size: smaller;">© Richard Změlík 2020–<script>new Date().getFullYear()&&document.write(new Date().getFullYear());</script></p>
+        <p style="text-align: right; font-size: smaller; margin-top: -1rem;"><a href="webversion.html" style="text-decoration: none;">version: 3.5.0</a></p>
+      </div>
+    </footer>
+  </div>
+</main>
+</body>
+</html>
