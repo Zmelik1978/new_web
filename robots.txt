@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://korpusprozy.com/sitemap.xml
