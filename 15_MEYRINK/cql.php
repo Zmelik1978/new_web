@@ -16,7 +16,7 @@
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.122.0">
     <title>CQL Query</title>
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/jumbotron/">   
+    <link rel="canonical" href="https://korpusprozy.com/15_MEYRINK/cql.php">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet"> 
     <link href="../style/menu-bar.css" rel="stylesheet">  

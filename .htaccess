@@ -1,5 +1,14 @@
 # Apache configuration for the LitCORP website.
 
+# Consolidate indexing signals on the HTTPS, non-www domain.
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteCond %{HTTP_HOST} ^(?:www\.)?korpusprozy\.com$ [NC]
+    RewriteCond %{HTTPS} !=on [OR]
+    RewriteCond %{HTTP_HOST} ^www\.korpusprozy\.com$ [NC]
+    RewriteRule ^ https://korpusprozy.com%{REQUEST_URI} [R=301,L,NE]
+</IfModule>
+
 # Prefer the static homepage and fall back to PHP where needed.
 DirectoryIndex index.html index.php
 

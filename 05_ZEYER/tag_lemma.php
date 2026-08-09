@@ -13,7 +13,7 @@
     <script src="https://code.highcharts.com/modules/export-data.js"></script>
     <script src="https://code.highcharts.com/modules/accessibility.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/jumbotron/">   
+    <link rel="canonical" href="https://korpusprozy.com/05_ZEYER/tag_lemma.php">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">   
     <link href="../style/main-style.css" rel="stylesheet">
