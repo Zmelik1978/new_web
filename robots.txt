@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://korpusprozy.com/sitemap.xml
+Sitemap: https://www.korpusprozy.com/sitemap.xml
