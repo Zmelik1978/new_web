@@ -196,6 +196,12 @@ tr:nth-child(even) {
 .gallery img:hover {
     transform: scale(2.00);
 }
+/* jednotná mřížka náhledů bez ohledu na orientaci fotek */
+.gallery-uniform img {
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    height: auto;
+}
 .gallery-title {
     color: rgb(56, 56, 233);
 }
