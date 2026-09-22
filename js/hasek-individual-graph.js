@@ -1,6 +1,7 @@
+/* Model: individualni graf segmentu (i.p.m.) -- container 'container-individual-graph'. */
 function renderchart2(chartTitle, vals){
     /*
-    Funkce, která vykreslí graf
+    Funkce, ktera vykresli graf
     */
     chart2 = Highcharts.chart('container-individual-graph', {
         chart: { type: 'column' },
@@ -27,17 +28,16 @@ function renderchart2(chartTitle, vals){
                     {
                         name: 'direct speach',
                         y: vals[0],
-                        color: '#808B96'     
+                        color: '#808B96'
                     },
                     {
                         name: 'direct speech as an inner monologue',
-                        y: vals[1],
-                       
+                        y: vals[1]
                     },
                     {
                         name: 'personal narrator',
                         y: vals[2],
-                        color: "#800000"
+                        color: '#800000'
                     },
                     {
                         name: 'narrator-character',
@@ -46,33 +46,32 @@ function renderchart2(chartTitle, vals){
                     },
                     {
                         name: 'heterodiegetic narrator',
-                        y: vals[4],
-                        
+                        y: vals[4]
                     },
                     {
                         name: 'rhetorical narrator',
                         y: vals[5],
-                        color: "#A52A2A"
+                        color: '#A52A2A'
                     },
                     {
-                        name: 'intradiegetic narrator of 1 st degree',
+                        name: 'intradiegetic narrator of 1st degree',
                         y: vals[6],
-                        color: "#FF1493"
+                        color: '#FF1493'
                     },
                     {
-                        name: 'direct speech in intradiegetic narrator of 1 st degree',
+                        name: 'direct speech in intradiegetic narrator of 1st degree',
                         y: vals[7],
-                        color: "#FF1493"
+                        color: '#FF1493'
                     },
                     {
-                        name: 'intradiegetic narrator of 2 st degree',
+                        name: 'intradiegetic narrator of 2nd degree',
                         y: vals[8],
-                        color: "#FF69B4"
+                        color: '#FF69B4'
                     },
                     {
-                        name: 'direct speech in intradiegetic narrator of 2 st degree',
+                        name: 'direct speech in intradiegetic narrator of 2nd degree',
                         y: vals[9],
-                        color: "#FF69B4"
+                        color: '#FF69B4'
                     },
                     {
                         name: 'text-in-text',
@@ -82,43 +81,57 @@ function renderchart2(chartTitle, vals){
                     {
                         name: 'direct speech in text-in-text',
                         y: vals[11],
-                        
+                        color: '#55ff00'
+                    },
+                    {
+                        name: 'unrealized direct speech',
+                        y: vals[12],
+                        color: '#ff0088'
                     }
                 ]
             }
-        ], 
+        ],
     });
 }
 
 /*
-Hodnoty pro jednotlivý texty
+Hodnoty pro jednotlive texty
 */
 var values2 = {
-    'hasek1': [
-        297259.48,
-        0,
-        0,
-        0,
-        0,
-        502562.43,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0        
-]
-}
+    'osudydobrehovojakasvejka1': [238925.83, 3252.3, 0, 0, 0, 456793.49, 108034.45, 10247.47, 0, 0, 25164.43, 545.08, 872.12],
+    'osudydobrehovojakasvejka2': [310856.76, 4014.27, 0, 0, 0, 333830.97, 161864.48, 24649.58, 0, 0, 46562.16, 763.04, 779.63]
+};
 
-/*
-Když se změní select, vykresli graf podle hodnoty v selectu
-*/
 $('#select2').on('change', function() {
-    if ( $(this).val() == 'default') {
+    const selectedVal = $(this).val();
+    const selectedText = $("#select2 option:selected").text();
+
+    if (selectedVal === 'default') {
         chart2.destroy();
+        $('#notice').html('');
+        return;
+    }
+
+    renderchart2(selectedText, values2[selectedVal]);
+
+    const notes = {};
+
+    if (notes[selectedVal]) {
+        $('#notice').html(
+            `<p style="text-align: justify; width: 100%; color: blue; border: 0px; padding: 10px; border-radius: 5px; background-color: #f7f9f9;">
+                <span style="color: red;">Note:</span><br>${notes[selectedVal]}
+            </p>`
+        );
     } else {
-        renderchart2(
-            $("#select2 option:selected").text(), 
-            values2[$(this).val()])
-        }
+        $('#notice').html('');
+    }
 });
+
+/* --- Odpovidajici <select> pro HTML stranku: ---
+<select id="select2">
+          <option value="default">— vyber dílo —</option>
+          <option value="osudydobrehovojakasvejkai">Osudy dobrého vojáka Švejka I</option>
+          <option value="osudydobrehovojakasvejkaii">Osudy dobrého vojáka Švejka II</option>
+</select>
+--- */
+
