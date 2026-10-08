@@ -219,7 +219,7 @@ $(function () {
 					{
 					name: 'Lotr Gólo', showInLegend: false,
 					marker: { 'symbol': 'circle', fillColor: "rgba(255,0,0,0)", lineColor: "#0000FF", lineWidth: 2  },
-					data: [[127750.54, 0], [221.15, 1], [770594.52, 4], [24363.27, 7], [94504.44, 11]]
+					data: [[19.58, 0], [13.7, 1], [6.0, 2], [20.46, 4], [23.61, 7], [27.87, 11]]
 					},
 					{
 					name: 'Démantová garnitura', showInLegend: false,
@@ -230,6 +230,16 @@ $(function () {
 					name: "Newtonův mozek", showInLegend: false,
 					marker: { 'symbol': 'circle', fillColor: "rgba(255,0,0,0)", lineColor: "#0000FF", lineWidth: 2  },
 					data: [[16.7, 0], [13.55, 1], [18.19, 4], [23.38, 7], [13.23, 11]]
+					},
+					{
+					name: 'Můj přítel vrah', showInLegend: false,
+					marker: { 'symbol': 'circle', fillColor: "rgba(255,0,0,0)", lineColor: "#0000FF", lineWidth: 2  },
+					data: [[16.63, 0], [12.76, 1], [17.57, 2], [19.85, 4], [17.59, 7], [7.89, 8], [12.38, 9], [10.4, 10], [4.25, 11], [5.0, 13]]
+					},
+					{
+					name: 'Lampičky', showInLegend: false,
+					marker: { 'symbol': 'circle', fillColor: "rgba(255,0,0,0)", lineColor: "#0000FF", lineWidth: 2  },
+					data: [[14.4, 0], [8.75, 1], [8.1, 2], [18.05, 6], [14.81, 7], [2.0, 13]]
 					},
 				]			
  		}); 

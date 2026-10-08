@@ -20,13 +20,14 @@ Highcharts.chart('container-text-segments', {
             'Sladký hřích (1877)',
             'Zbožňovatel kněžny Esterházy (1878)',
             'Poslední škamna (1878)',
+            'Můj přítel vrah (1879)',
             'Advokát chuďasů  (1881)',
             'Bílé svatební šaty (1883)',
             'Démantová garnitura (1883)',
+            'Lampičky (1883)',
             'Jedna z těch, které mě zajímaly (1883)',
             'Před domem smutku (1883)',
             'Dva barikádníci (1885)',
-
             'Il divino Boemo (1886)',
             'První noc u mrtvoly (1886)',
             'Lotr Gólo (1886)',
@@ -82,9 +83,11 @@ Highcharts.chart('container-text-segments', {
             6332.36,// Sladký hřích
             135678.39, // Zbožňovatel kněžny Esterházy
             143073.08, // Poslední škamna
+            258112.6, // Můj přítel vrah (1879)
             221408.15, // Advokát chuďasů
             208777.16, // Bílé svatební šaty
             192718.93, // Démantová garnitura
+            247393.4, // Lampičky (1883)
             20655.68, // Jedna z těch, které mě zajímaly
             435451.07, // Před domem smutku
             235568.30, // Dva barikádníci
@@ -122,9 +125,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            3583.30, // Můj přítel vrah (1879)
             1965.69, // Advokát chuďasů
             0, // Bílé svatební šaty
             7229.12,// Démantová garnitura
+            3199.83, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -163,9 +168,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            0, // Můj přítel vrah (1879)
             0, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -203,9 +210,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             826629.86, // Poslední škamna
+            540505.68, // Můj přítel vrah (1879)
             582022.87, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky
             1002653.02, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -243,9 +252,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            0, // Můj přítel vrah (1879)
             0, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -283,9 +294,11 @@ Highcharts.chart('container-text-segments', {
             262878.66, // Sladký hřích
             881781.79,// Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            0, // Můj přítel vrah (1879)
             0, // Advokát chuďasů
             796335.75, // Bílé svatební šaty
             811306.87, // Démantová garnitura
+            756309.77, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             528593.51, // Před domem smutku
             723987.09, // Dva barikádníci
@@ -323,9 +336,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            184669.19, // Můj přítel vrah (1879)
             110302.0, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            17796.79, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             60522.25, // Před domem smutku
             60702.76, // Dva barikádníci
@@ -363,9 +378,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            17171.2, // Můj přítel vrah (1879)
             2412.44, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             9843.0, // Před domem smutku
             860.52, // Dva barikádníci
@@ -403,9 +420,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            4643.96, // Můj přítel vrah (1879)
             0, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -443,9 +462,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            1576.65, // Můj přítel vrah (1879)
             0, // Advokát chuďasů
             0, // Bílé svatební šaty
             0, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -483,9 +504,11 @@ Highcharts.chart('container-text-segments', {
             763991.1, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             43506.83, // Poslední škamna
+             516.0, // Můj přítel vrah (1879)
             114278.06, // Advokát chuďasů
             31529.61, // Bílé svatební šaty
             9003.94, // Démantová garnitura
+            0, // Lampičky (1883)
             1516.01, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -523,9 +546,11 @@ Highcharts.chart('container-text-segments', {
             95156.6, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             0, // Poslední škamna
+            0, // Můj přítel vrah (1879)
             3439.96, // Advokát chuďasů
             0, // Bílé svatební šaty
             476.17, // Démantová garnitura
+            0, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             0, // Před domem smutku
             0, // Dva barikádníci
@@ -563,9 +588,11 @@ Highcharts.chart('container-text-segments', {
             0, // Sladký hřích
             0, // Zbožňovatel kněžny Esterházy
             722.92, // Poslední škamna
+            143.33, // Můj přítel vrah (1879)
             2144.39, // Advokát chuďasů
             0, // Bílé svatební šaty
             43.29, // Démantová garnitura
+            71.91, // Lampičky (1883)
             0, // Jedna z těch, které mě zajímaly
             732.12, // Před domem smutku
             35.86, // Dva barikádníci
