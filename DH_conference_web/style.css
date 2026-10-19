@@ -742,3 +742,99 @@ body {
         transform: translateY(0);
     }
 }
+/* Conference program: follows the site's existing timeline and palette. */
+#program .conference-schedule {
+    max-width: 1100px;
+}
+#program .timeline-item {
+    align-items: flex-start;
+    gap: 2rem;
+}
+#program .timeline-date {
+    flex: 0 0 120px;
+    margin-right: 0;
+}
+#program .timeline-content {
+    min-width: 0;
+    padding: 2rem;
+}
+#program .program-block-title {
+    color: #5a67d8;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    margin: 2rem 0 0.75rem;
+    padding-bottom: 0.65rem;
+    border-bottom: 2px solid #e8ecfb;
+}
+#program .program-entry {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin-top: 1rem;
+    text-align: left;
+}
+#program .program-entry + .program-entry {
+    border-top: 1px solid #e2e8f0;
+}
+#program .program-entry th,
+#program .program-entry td {
+    padding: 0.35rem 0;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+#program .program-entry tr:first-child > * {
+    padding-top: 1rem;
+}
+#program .program-entry th {
+    width: 115px;
+    padding-right: 1rem;
+    color: #4a5568;
+    font-weight: 600;
+}
+#program .program-entry tr:first-child td {
+    color: #5a67d8;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+}
+#program .program-topic {
+    font-style: italic;
+    font-weight: 500;
+    color: #2d3748;
+}
+@media (max-width: 768px) {
+    #program .timeline-item {
+        align-items: stretch;
+        gap: 0;
+        text-align: left;
+    }
+    #program .timeline-date {
+        flex: 0 0 auto;
+        align-self: flex-start;
+    }
+    #program .timeline-content {
+        padding: 1.25rem;
+    }
+    #program .program-entry th {
+        width: 100px;
+    }
+}
+@media (max-width: 420px) {
+    #program .program-entry,
+    #program .program-entry tbody,
+    #program .program-entry tr,
+    #program .program-entry th,
+    #program .program-entry td {
+        display: block;
+        width: 100%;
+    }
+    #program .program-entry th {
+        padding: 0.65rem 0 0;
+        font-size: 0.85rem;
+    }
+    #program .program-entry td {
+        padding: 0 0 0.25rem;
+    }
+    #program .program-entry tr:first-child td {
+        padding-top: 0;
+    }
+}
